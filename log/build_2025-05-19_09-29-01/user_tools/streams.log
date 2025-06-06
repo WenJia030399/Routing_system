@@ -1,0 +1,31 @@
+[0.534s] Invoking command in '/home/csl/isaac_routing2_v2/src/user_tools': PYTHONPATH=/home/csl/isaac_routing2_v2/build/user_tools/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/csl/isaac_routing2_v2/install/user_tools/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/user_tools build --build-base /home/csl/isaac_routing2_v2/build/user_tools/build install --record /home/csl/isaac_routing2_v2/build/user_tools/install.log --single-version-externally-managed install_data
+[0.738s] running egg_info
+[0.739s] creating ../../build/user_tools/user_tools.egg-info
+[0.739s] writing ../../build/user_tools/user_tools.egg-info/PKG-INFO
+[0.739s] writing dependency_links to ../../build/user_tools/user_tools.egg-info/dependency_links.txt
+[0.739s] writing entry points to ../../build/user_tools/user_tools.egg-info/entry_points.txt
+[0.739s] writing requirements to ../../build/user_tools/user_tools.egg-info/requires.txt
+[0.740s] writing top-level names to ../../build/user_tools/user_tools.egg-info/top_level.txt
+[0.740s] writing manifest file '../../build/user_tools/user_tools.egg-info/SOURCES.txt'
+[0.741s] reading manifest file '../../build/user_tools/user_tools.egg-info/SOURCES.txt'
+[0.741s] writing manifest file '../../build/user_tools/user_tools.egg-info/SOURCES.txt'
+[0.741s] running build
+[0.741s] running build_py
+[0.741s] creating /home/csl/isaac_routing2_v2/build/user_tools/build
+[0.742s] creating /home/csl/isaac_routing2_v2/build/user_tools/build/lib
+[0.742s] creating /home/csl/isaac_routing2_v2/build/user_tools/build/lib/my_waypoint_tools
+[0.742s] copying my_waypoint_tools/__init__.py -> /home/csl/isaac_routing2_v2/build/user_tools/build/lib/my_waypoint_tools
+[0.742s] copying my_waypoint_tools/goal_select.py -> /home/csl/isaac_routing2_v2/build/user_tools/build/lib/my_waypoint_tools
+[0.742s] running install
+[0.742s] running install_lib
+[0.742s] creating /home/csl/isaac_routing2_v2/install/user_tools/lib/python3.10/site-packages/my_waypoint_tools
+[0.742s] copying /home/csl/isaac_routing2_v2/build/user_tools/build/lib/my_waypoint_tools/__init__.py -> /home/csl/isaac_routing2_v2/install/user_tools/lib/python3.10/site-packages/my_waypoint_tools
+[0.743s] copying /home/csl/isaac_routing2_v2/build/user_tools/build/lib/my_waypoint_tools/goal_select.py -> /home/csl/isaac_routing2_v2/install/user_tools/lib/python3.10/site-packages/my_waypoint_tools
+[0.743s] byte-compiling /home/csl/isaac_routing2_v2/install/user_tools/lib/python3.10/site-packages/my_waypoint_tools/__init__.py to __init__.cpython-310.pyc
+[0.743s] byte-compiling /home/csl/isaac_routing2_v2/install/user_tools/lib/python3.10/site-packages/my_waypoint_tools/goal_select.py to goal_select.cpython-310.pyc
+[0.744s] running install_data
+[0.744s] creating /home/csl/isaac_routing2_v2/install/user_tools/share/ament_index
+[0.745s] creating /home/csl/isaac_routing2_v2/install/user_tools/share/ament_index/resource_index
+[0.745s] creating /home/csl/isaac_routing2_v2/install/user_tools/share/ament_index/resource_index/packages
+[0.745s] error: can't copy 'resource/user_tools': doesn't exist or not a regular file
+[0.761s] Invoked command in '/home/csl/isaac_routing2_v2/src/user_tools' returned '1': PYTHONPATH=/home/csl/isaac_routing2_v2/build/user_tools/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/csl/isaac_routing2_v2/install/user_tools/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/user_tools build --build-base /home/csl/isaac_routing2_v2/build/user_tools/build install --record /home/csl/isaac_routing2_v2/build/user_tools/install.log --single-version-externally-managed install_data

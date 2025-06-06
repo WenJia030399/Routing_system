@@ -1,0 +1,53 @@
+[0.125s] Invoking command in '/home/csl/isaac_routing2_v2/build/champ_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/csl/isaac_routing2_v2/install/user_tools:/home/csl/isaac_routing2_v2/install/spot_routing_nav:/home/csl/isaac_routing2_v2/install/routing_agent:/home/csl/isaac_routing2_v2/install/my_waypoint_tools:/opt/ros/humble /usr/bin/cmake --build /home/csl/isaac_routing2_v2/build/champ_description -- -j16 -l16
+[1.086s] Invoked command in '/home/csl/isaac_routing2_v2/build/champ_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/csl/isaac_routing2_v2/install/user_tools:/home/csl/isaac_routing2_v2/install/spot_routing_nav:/home/csl/isaac_routing2_v2/install/routing_agent:/home/csl/isaac_routing2_v2/install/my_waypoint_tools:/opt/ros/humble /usr/bin/cmake --build /home/csl/isaac_routing2_v2/build/champ_description -- -j16 -l16
+[1.088s] Invoking command in '/home/csl/isaac_routing2_v2/build/champ_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/csl/isaac_routing2_v2/install/user_tools:/home/csl/isaac_routing2_v2/install/spot_routing_nav:/home/csl/isaac_routing2_v2/install/routing_agent:/home/csl/isaac_routing2_v2/install/my_waypoint_tools:/opt/ros/humble /usr/bin/cmake --install /home/csl/isaac_routing2_v2/build/champ_description
+[1.206s] -- Install configuration: ""
+[1.207s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/launch
+[1.207s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/launch/view_urdf.launch
+[1.207s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/launch/description.launch.py
+[1.207s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/launch/description.launch
+[1.208s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/rviz
+[1.208s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/rviz/urdf_viewer.rviz
+[1.208s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/meshes
+[1.208s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/meshes/asus_camera_simple.dae
+[1.208s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/meshes/hokuyo_utm_30lx.dae
+[1.208s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/meshes/upper_leg_simple.stl
+[1.208s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/meshes/base.stl
+[1.208s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/meshes/hip.stl
+[1.209s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/meshes/lower_leg_simple.stl
+[1.209s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/meshes/arm
+[1.209s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/meshes/arm/lower_arm.stl
+[1.209s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/meshes/arm/base.stl
+[1.209s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/meshes/arm/wrist1.stl
+[1.209s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/meshes/arm/wrist2.stl
+[1.210s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/meshes/arm/upper_arm.stl
+[1.210s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/meshes/upper_leg.stl
+[1.210s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/meshes/base_simple.stl
+[1.210s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/meshes/lower_leg.stl
+[1.210s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/urdf
+[1.210s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/urdf/champ_arm.urdf
+[1.211s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/urdf/accessories.urdf.xacro
+[1.211s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/urdf/leg.urdf.xacro
+[1.211s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/urdf/champ.urdf
+[1.212s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/urdf/champ.urdf.xacro
+[1.213s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/urdf/properties.urdf.xacro
+[1.213s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/urdf/hokuyo_utm30lx.urdf.xacro
+[1.213s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/urdf/gen_urdf
+[1.213s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/urdf/champ_velodyne.urdf
+[1.213s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/urdf/asus_camera.urdf.xacro
+[1.213s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/ament_index/resource_index/package_run_dependencies/champ_description
+[1.214s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/ament_index/resource_index/parent_prefix_path/champ_description
+[1.214s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/environment/ament_prefix_path.sh
+[1.214s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/environment/ament_prefix_path.dsv
+[1.214s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/environment/path.sh
+[1.214s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/environment/path.dsv
+[1.214s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/local_setup.bash
+[1.214s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/local_setup.sh
+[1.214s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/local_setup.zsh
+[1.214s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/local_setup.dsv
+[1.214s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/package.dsv
+[1.214s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/ament_index/resource_index/packages/champ_description
+[1.214s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/cmake/champ_descriptionConfig.cmake
+[1.215s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/cmake/champ_descriptionConfig-version.cmake
+[1.215s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_description/share/champ_description/package.xml
+[1.438s] Invoked command in '/home/csl/isaac_routing2_v2/build/champ_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/csl/isaac_routing2_v2/install/user_tools:/home/csl/isaac_routing2_v2/install/spot_routing_nav:/home/csl/isaac_routing2_v2/install/routing_agent:/home/csl/isaac_routing2_v2/install/my_waypoint_tools:/opt/ros/humble /usr/bin/cmake --install /home/csl/isaac_routing2_v2/build/champ_description

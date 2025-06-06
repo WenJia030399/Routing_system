@@ -1,0 +1,40 @@
+running egg_info
+creating ../../build/spot_routing_nav/spot_routing_nav.egg-info
+writing ../../build/spot_routing_nav/spot_routing_nav.egg-info/PKG-INFO
+writing dependency_links to ../../build/spot_routing_nav/spot_routing_nav.egg-info/dependency_links.txt
+writing entry points to ../../build/spot_routing_nav/spot_routing_nav.egg-info/entry_points.txt
+writing requirements to ../../build/spot_routing_nav/spot_routing_nav.egg-info/requires.txt
+writing top-level names to ../../build/spot_routing_nav/spot_routing_nav.egg-info/top_level.txt
+writing manifest file '../../build/spot_routing_nav/spot_routing_nav.egg-info/SOURCES.txt'
+reading manifest file '../../build/spot_routing_nav/spot_routing_nav.egg-info/SOURCES.txt'
+writing manifest file '../../build/spot_routing_nav/spot_routing_nav.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/csl/isaac_routing2_v2/build/spot_routing_nav/build
+creating /home/csl/isaac_routing2_v2/build/spot_routing_nav/build/lib
+creating /home/csl/isaac_routing2_v2/build/spot_routing_nav/build/lib/spot_routing_nav
+copying spot_routing_nav/__init__.py -> /home/csl/isaac_routing2_v2/build/spot_routing_nav/build/lib/spot_routing_nav
+copying spot_routing_nav/nav_to_pose.py -> /home/csl/isaac_routing2_v2/build/spot_routing_nav/build/lib/spot_routing_nav
+copying spot_routing_nav/waypoint_nav.py -> /home/csl/isaac_routing2_v2/build/spot_routing_nav/build/lib/spot_routing_nav
+running install
+running install_lib
+creating /home/csl/isaac_routing2_v2/install/spot_routing_nav/lib/python3.10/site-packages/spot_routing_nav
+copying /home/csl/isaac_routing2_v2/build/spot_routing_nav/build/lib/spot_routing_nav/__init__.py -> /home/csl/isaac_routing2_v2/install/spot_routing_nav/lib/python3.10/site-packages/spot_routing_nav
+copying /home/csl/isaac_routing2_v2/build/spot_routing_nav/build/lib/spot_routing_nav/nav_to_pose.py -> /home/csl/isaac_routing2_v2/install/spot_routing_nav/lib/python3.10/site-packages/spot_routing_nav
+copying /home/csl/isaac_routing2_v2/build/spot_routing_nav/build/lib/spot_routing_nav/waypoint_nav.py -> /home/csl/isaac_routing2_v2/install/spot_routing_nav/lib/python3.10/site-packages/spot_routing_nav
+byte-compiling /home/csl/isaac_routing2_v2/install/spot_routing_nav/lib/python3.10/site-packages/spot_routing_nav/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/csl/isaac_routing2_v2/install/spot_routing_nav/lib/python3.10/site-packages/spot_routing_nav/nav_to_pose.py to nav_to_pose.cpython-310.pyc
+byte-compiling /home/csl/isaac_routing2_v2/install/spot_routing_nav/lib/python3.10/site-packages/spot_routing_nav/waypoint_nav.py to waypoint_nav.cpython-310.pyc
+running install_data
+creating /home/csl/isaac_routing2_v2/install/spot_routing_nav/share/ament_index
+creating /home/csl/isaac_routing2_v2/install/spot_routing_nav/share/ament_index/resource_index
+creating /home/csl/isaac_routing2_v2/install/spot_routing_nav/share/ament_index/resource_index/packages
+copying resource/spot_routing_nav -> /home/csl/isaac_routing2_v2/install/spot_routing_nav/share/ament_index/resource_index/packages
+copying package.xml -> /home/csl/isaac_routing2_v2/install/spot_routing_nav/share/spot_routing_nav
+creating /home/csl/isaac_routing2_v2/install/spot_routing_nav/share/spot_routing_nav/launch
+running install_egg_info
+Copying ../../build/spot_routing_nav/spot_routing_nav.egg-info to /home/csl/isaac_routing2_v2/install/spot_routing_nav/lib/python3.10/site-packages/spot_routing_nav-0.0.0-py3.10.egg-info
+running install_scripts
+Installing nav_to_pose script to /home/csl/isaac_routing2_v2/install/spot_routing_nav/lib/spot_routing_nav
+Installing waypoint_nav script to /home/csl/isaac_routing2_v2/install/spot_routing_nav/lib/spot_routing_nav
+writing list of installed files to '/home/csl/isaac_routing2_v2/build/spot_routing_nav/install.log'

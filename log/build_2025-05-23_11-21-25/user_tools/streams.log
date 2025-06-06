@@ -1,0 +1,21 @@
+[1.553s] Invoking command in '/home/csl/isaac_routing2_v2/src/user_tools': PYTHONPATH=/home/csl/isaac_routing2_v2/build/user_tools/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/csl/isaac_routing2_v2/install/user_tools/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/user_tools build --build-base /home/csl/isaac_routing2_v2/build/user_tools/build install --record /home/csl/isaac_routing2_v2/build/user_tools/install.log --single-version-externally-managed install_data
+[1.885s] running egg_info
+[1.885s] writing ../../build/user_tools/user_tools.egg-info/PKG-INFO
+[1.885s] writing dependency_links to ../../build/user_tools/user_tools.egg-info/dependency_links.txt
+[1.885s] writing entry points to ../../build/user_tools/user_tools.egg-info/entry_points.txt
+[1.885s] writing requirements to ../../build/user_tools/user_tools.egg-info/requires.txt
+[1.885s] writing top-level names to ../../build/user_tools/user_tools.egg-info/top_level.txt
+[1.886s] reading manifest file '../../build/user_tools/user_tools.egg-info/SOURCES.txt'
+[1.886s] writing manifest file '../../build/user_tools/user_tools.egg-info/SOURCES.txt'
+[1.886s] running build
+[1.886s] running build_py
+[1.886s] running install
+[1.886s] running install_lib
+[1.888s] running install_data
+[1.888s] running install_egg_info
+[1.891s] removing '/home/csl/isaac_routing2_v2/install/user_tools/lib/python3.10/site-packages/user_tools-0.0.0-py3.10.egg-info' (and everything under it)
+[1.891s] Copying ../../build/user_tools/user_tools.egg-info to /home/csl/isaac_routing2_v2/install/user_tools/lib/python3.10/site-packages/user_tools-0.0.0-py3.10.egg-info
+[1.892s] running install_scripts
+[1.921s] Installing goal_select script to /home/csl/isaac_routing2_v2/install/user_tools/lib/user_tools
+[1.921s] writing list of installed files to '/home/csl/isaac_routing2_v2/build/user_tools/install.log'
+[1.987s] Invoked command in '/home/csl/isaac_routing2_v2/src/user_tools' returned '0': PYTHONPATH=/home/csl/isaac_routing2_v2/build/user_tools/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/csl/isaac_routing2_v2/install/user_tools/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/user_tools build --build-base /home/csl/isaac_routing2_v2/build/user_tools/build install --record /home/csl/isaac_routing2_v2/build/user_tools/install.log --single-version-externally-managed install_data

@@ -1,0 +1,23 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/csl/isaac_routing/install/switch_map_interfaces/local/lib/python3.10/dist-packages",
+        "/home/csl/isaac_routing/install/spot_routing_nav/lib/python3.10/site-packages",
+        "/home/csl/isaac_routing/install/routing_agent/lib/python3.10/site-packages",
+        "/home/csl/isaac_routing/install/routing_agent_interfaces/local/lib/python3.10/dist-packages",
+        "/home/csl/isaac_routing/install/champ_bringup/local/lib/python3.10/dist-packages",
+        "/home/csl/isaac_routing/install/champ_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/csl/isaac_routing/install/switch_map_interfaces/local/lib/python3.10/dist-packages",
+        "/home/csl/isaac_routing/install/spot_routing_nav/lib/python3.10/site-packages",
+        "/home/csl/isaac_routing/install/routing_agent/lib/python3.10/site-packages",
+        "/home/csl/isaac_routing/install/routing_agent_interfaces/local/lib/python3.10/dist-packages",
+        "/home/csl/isaac_routing/install/champ_bringup/local/lib/python3.10/dist-packages",
+        "/home/csl/isaac_routing/install/champ_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "ros.distro": "humble"
+}

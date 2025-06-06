@@ -1,0 +1,5 @@
+  File "/home/csl/isaac_routing2_v2/install/user_tools/lib/python3.10/site-packages/user_tools/goal_select.py", line 66
+    with open('ENV_FILE,'r',encoding='utf-8') as f:
+                                           ^
+SyntaxError: unterminated string literal (detected at line 66)
+

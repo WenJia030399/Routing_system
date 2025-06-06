@@ -1,0 +1,149 @@
+[0.012s] Invoking command in '/home/csl/isaac_routing2_v2/build/champ_gazebo': AMENT_PREFIX_PATH=/home/csl/isaac_routing2_v2/install/champ_msgs:/home/csl/isaac_routing2_v2/install/champ:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/csl/isaac_routing2_v2/install/champ_msgs:/home/csl/isaac_routing2_v2/install/champ:/opt/ros/humble LD_LIBRARY_PATH=/home/csl/isaac_routing2_v2/install/champ_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/csl/isaac_routing2_v2/install/champ_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/csl/isaac_routing2_v2/src/champ/champ_gazebo -DCMAKE_INSTALL_PREFIX=/home/csl/isaac_routing2_v2/install/champ_gazebo
+[0.070s] -- The C compiler identification is GNU 12.3.0
+[0.133s] -- The CXX compiler identification is GNU 11.4.0
+[0.143s] -- Detecting C compiler ABI info
+[0.212s] -- Detecting C compiler ABI info - done
+[0.220s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.220s] -- Detecting C compile features
+[0.221s] -- Detecting C compile features - done
+[0.223s] -- Detecting CXX compiler ABI info
+[0.299s] -- Detecting CXX compiler ABI info - done
+[0.308s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.309s] -- Detecting CXX compile features
+[0.309s] -- Detecting CXX compile features - done
+[0.313s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.484s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.618s] -- Found rclcpp: 16.0.10 (/opt/ros/humble/share/rclcpp/cmake)
+[0.679s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.685s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.699s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.713s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.737s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.843s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.853s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.983s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.025s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.082s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.093s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.177s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.178s] -- Found Threads: TRUE  
+[1.245s] -- Found urdf: 2.6.1 (/opt/ros/humble/share/urdf/cmake)
+[1.303s] -- Found champ: 0.1.0 (/home/csl/isaac_routing2_v2/install/champ/share/champ/cmake)
+[1.305s] -- Found champ_msgs: 0.1.0 (/home/csl/isaac_routing2_v2/install/champ_msgs/share/champ_msgs/cmake)
+[1.339s] -- Found gazebo_ros2_control: 0.4.10 (/opt/ros/humble/share/gazebo_ros2_control/cmake)
+[1.568s] -- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.2") 
+[1.569s] -- Checking for module 'bullet>=2.82'
+[1.586s] --   Found bullet, version 3.05
+[1.723s] -- Found fcl: /usr/include (found suitable version "0.7.0", minimum required is "0.5.0") 
+[1.781s] -- Found assimp: /usr/include (found version "5.2.0") 
+[1.804s] -- Found DART: /usr/include (Required is at least version "6.6") found components: dart 
+[1.847s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found suitable version "1.74.0", minimum required is "1.40.0") found components: thread system filesystem program_options regex iostreams date_time 
+[1.871s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so (found version "3.12.4") 
+[1.881s] -- Looking for ignition-math6 -- found version 6.15.1
+[1.891s] -- Searching for dependencies of ignition-math6
+[1.894s] -- Looking for OGRE...
+[1.894s] -- OGRE_PREFIX_WATCH changed.
+[1.899s] -- Checking for module 'OGRE'
+[1.911s] --   Found OGRE, version 1.9.0
+[1.947s] -- Found Ogre Ghadamon (1.9.0)
+[1.964s] -- Found OGRE: optimized;/usr/lib/x86_64-linux-gnu/libOgreMain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreMain.so
+[1.976s] -- Looking for OGRE_Paging...
+[1.989s] -- Found OGRE_Paging: optimized;/usr/lib/x86_64-linux-gnu/libOgrePaging.so;debug;/usr/lib/x86_64-linux-gnu/libOgrePaging.so
+[1.989s] -- Looking for OGRE_Terrain...
+[2.001s] -- Found OGRE_Terrain: optimized;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so
+[2.001s] -- Looking for OGRE_Property...
+[2.011s] -- Found OGRE_Property: optimized;/usr/lib/x86_64-linux-gnu/libOgreProperty.so;debug;/usr/lib/x86_64-linux-gnu/libOgreProperty.so
+[2.011s] -- Looking for OGRE_RTShaderSystem...
+[2.023s] -- Found OGRE_RTShaderSystem: optimized;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so;debug;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so
+[2.023s] -- Looking for OGRE_Volume...
+[2.033s] -- Found OGRE_Volume: optimized;/usr/lib/x86_64-linux-gnu/libOgreVolume.so;debug;/usr/lib/x86_64-linux-gnu/libOgreVolume.so
+[2.033s] -- Looking for OGRE_Overlay...
+[2.045s] -- Found OGRE_Overlay: optimized;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so;debug;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so
+[2.325s] -- Looking for ignition-math6 -- found version 6.15.1
+[2.330s] -- Looking for ignition-transport8 -- found version 8.2.1
+[2.330s] -- Searching for dependencies of ignition-transport8
+[2.354s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so (found suitable version "3.12.4", minimum required is "3") 
+[2.368s] -- Config-file not installed for ZeroMQ -- checking for pkg-config
+[2.375s] -- Checking for module 'libzmq >= 4'
+[2.398s] --   Found libzmq , version 4.3.4
+[2.452s] -- Found ZeroMQ: TRUE (Required is at least version "4") 
+[2.460s] -- Checking for module 'uuid'
+[2.479s] --   Found uuid, version 2.37.2
+[2.527s] -- Found UUID: TRUE  
+[2.531s] -- Looking for ignition-msgs5 -- found version 5.8.1
+[2.531s] -- Searching for dependencies of ignition-msgs5
+[2.556s] -- Looking for ignition-math6 -- found version 6.15.1
+[2.562s] -- Checking for module 'tinyxml2'
+[2.580s] --   Found tinyxml2, version 9.0.0
+[2.627s] -- Looking for ignition-msgs5 -- found version 5.8.1
+[2.632s] -- Looking for ignition-common3 -- found version 3.14.0
+[2.633s] -- Searching for dependencies of ignition-common3
+[2.633s] -- Looking for dlfcn.h - found
+[2.636s] -- Looking for libdl - found
+[2.636s] -- Found DL: TRUE  
+[2.653s] -- Found tinyobjloader: /usr/lib/x86_64-linux-gnu/cmake/tinyobjloader/tinyobjloader-config.cmake (found version "2.0.0") 
+[2.654s] -- Searching for <ignition-common3> component [graphics]
+[2.658s] -- Looking for ignition-common3-graphics -- found version 3.14.0
+[2.659s] -- Searching for dependencies of ignition-common3-graphics
+[2.659s] -- Looking for ignition-math6 -- found version 6.15.1
+[2.664s] -- Looking for ignition-fuel_tools4 -- found version 4.4.0
+[2.665s] -- Searching for dependencies of ignition-fuel_tools4
+[2.771s] -- Found CURL: /usr/lib/x86_64-linux-gnu/libcurl.so (found version "7.81.0")  
+[2.783s] -- Checking for module 'jsoncpp'
+[2.800s] --   Found jsoncpp, version 1.9.5
+[2.838s] -- Found JSONCPP: TRUE  
+[2.845s] -- Checking for module 'libzip'
+[2.862s] --   Found libzip, version 1.7.3
+[2.910s] -- Found ZIP: TRUE  
+[2.910s] -- Looking for ignition-common3 -- found version 3.14.0
+[2.911s] -- Looking for ignition-math6 -- found version 6.15.1
+[2.911s] -- Looking for ignition-msgs5 -- found version 5.8.1
+[2.917s] -- Gazebo version: 11.10
+[2.917s] -- Checking for module 'tbb'
+[2.933s] --   Found tbb, version 2021.5.0
+[3.104s] -- Configuring done
+[3.214s] -- Generating done
+[3.222s] -- Build files have been written to: /home/csl/isaac_routing2_v2/build/champ_gazebo
+[3.244s] Invoked command in '/home/csl/isaac_routing2_v2/build/champ_gazebo' returned '0': AMENT_PREFIX_PATH=/home/csl/isaac_routing2_v2/install/champ_msgs:/home/csl/isaac_routing2_v2/install/champ:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/csl/isaac_routing2_v2/install/champ_msgs:/home/csl/isaac_routing2_v2/install/champ:/opt/ros/humble LD_LIBRARY_PATH=/home/csl/isaac_routing2_v2/install/champ_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/csl/isaac_routing2_v2/install/champ_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/csl/isaac_routing2_v2/src/champ/champ_gazebo -DCMAKE_INSTALL_PREFIX=/home/csl/isaac_routing2_v2/install/champ_gazebo
+[3.245s] Invoking command in '/home/csl/isaac_routing2_v2/build/champ_gazebo': AMENT_PREFIX_PATH=/home/csl/isaac_routing2_v2/install/champ_msgs:/home/csl/isaac_routing2_v2/install/champ:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/csl/isaac_routing2_v2/install/champ_msgs:/home/csl/isaac_routing2_v2/install/champ:/opt/ros/humble LD_LIBRARY_PATH=/home/csl/isaac_routing2_v2/install/champ_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/csl/isaac_routing2_v2/install/champ_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/csl/isaac_routing2_v2/build/champ_gazebo -- -j16 -l16
+[3.280s] [ 50%] [32mBuilding CXX object CMakeFiles/contact_sensor.dir/src/contact_sensor.cpp.o[0m
+[21.209s] [100%] [32m[1mLinking CXX executable contact_sensor[0m
+[23.072s] [100%] Built target contact_sensor
+[23.078s] Invoked command in '/home/csl/isaac_routing2_v2/build/champ_gazebo' returned '0': AMENT_PREFIX_PATH=/home/csl/isaac_routing2_v2/install/champ_msgs:/home/csl/isaac_routing2_v2/install/champ:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/csl/isaac_routing2_v2/install/champ_msgs:/home/csl/isaac_routing2_v2/install/champ:/opt/ros/humble LD_LIBRARY_PATH=/home/csl/isaac_routing2_v2/install/champ_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/csl/isaac_routing2_v2/install/champ_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/csl/isaac_routing2_v2/build/champ_gazebo -- -j16 -l16
+[23.080s] Invoking command in '/home/csl/isaac_routing2_v2/build/champ_gazebo': AMENT_PREFIX_PATH=/home/csl/isaac_routing2_v2/install/champ_msgs:/home/csl/isaac_routing2_v2/install/champ:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/csl/isaac_routing2_v2/install/champ_msgs:/home/csl/isaac_routing2_v2/install/champ:/opt/ros/humble LD_LIBRARY_PATH=/home/csl/isaac_routing2_v2/install/champ_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/csl/isaac_routing2_v2/install/champ_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/csl/isaac_routing2_v2/build/champ_gazebo
+[23.083s] -- Install configuration: ""
+[23.083s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/bin/imu_sensor.py
+[23.084s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/bin/odometry_tf.py
+[23.084s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/bin/odometry.py
+[23.084s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/lib/champ_gazebo/contact_sensor
+[23.087s] -- Set runtime path of "/home/csl/isaac_routing2_v2/install/champ_gazebo/lib/champ_gazebo/contact_sensor" to ""
+[23.087s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/champ_gazebo/launch
+[23.087s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/champ_gazebo/launch/spawn_robot.launch
+[23.087s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/champ_gazebo/launch/gazebo.launch.py
+[23.088s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/champ_gazebo/launch/spawn_world.launch
+[23.088s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/champ_gazebo/launch/gazebo.launch
+[23.088s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/champ_gazebo/config
+[23.089s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/champ_gazebo/config/ros_control.yaml
+[23.089s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/champ_gazebo/config/gazebo.yaml
+[23.089s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/champ_gazebo/worlds
+[23.089s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/champ_gazebo/worlds/default.world
+[23.090s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/champ_gazebo/worlds/playground.world
+[23.090s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/champ_gazebo/worlds/outdoor.world
+[23.091s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/ament_index/resource_index/package_run_dependencies/champ_gazebo
+[23.091s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/ament_index/resource_index/parent_prefix_path/champ_gazebo
+[23.091s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/champ_gazebo/environment/ament_prefix_path.sh
+[23.091s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/champ_gazebo/environment/ament_prefix_path.dsv
+[23.092s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/champ_gazebo/environment/path.sh
+[23.092s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/champ_gazebo/environment/path.dsv
+[23.092s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/champ_gazebo/local_setup.bash
+[23.092s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/champ_gazebo/local_setup.sh
+[23.092s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/champ_gazebo/local_setup.zsh
+[23.093s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/champ_gazebo/local_setup.dsv
+[23.093s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/champ_gazebo/package.dsv
+[23.093s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/ament_index/resource_index/packages/champ_gazebo
+[23.093s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/champ_gazebo/cmake/ament_cmake_export_include_directories-extras.cmake
+[23.093s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/champ_gazebo/cmake/ament_cmake_export_dependencies-extras.cmake
+[23.094s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/champ_gazebo/cmake/champ_gazeboConfig.cmake
+[23.094s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/champ_gazebo/cmake/champ_gazeboConfig-version.cmake
+[23.094s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_gazebo/share/champ_gazebo/package.xml
+[23.095s] Invoked command in '/home/csl/isaac_routing2_v2/build/champ_gazebo' returned '0': AMENT_PREFIX_PATH=/home/csl/isaac_routing2_v2/install/champ_msgs:/home/csl/isaac_routing2_v2/install/champ:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/csl/isaac_routing2_v2/install/champ_msgs:/home/csl/isaac_routing2_v2/install/champ:/opt/ros/humble LD_LIBRARY_PATH=/home/csl/isaac_routing2_v2/install/champ_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/csl/isaac_routing2_v2/install/champ_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/csl/isaac_routing2_v2/build/champ_gazebo

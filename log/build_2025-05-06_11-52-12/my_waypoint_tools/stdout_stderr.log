@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/my_waypoint_tools/my_waypoint_tools.egg-info
+writing ../../build/my_waypoint_tools/my_waypoint_tools.egg-info/PKG-INFO
+writing dependency_links to ../../build/my_waypoint_tools/my_waypoint_tools.egg-info/dependency_links.txt
+writing entry points to ../../build/my_waypoint_tools/my_waypoint_tools.egg-info/entry_points.txt
+writing requirements to ../../build/my_waypoint_tools/my_waypoint_tools.egg-info/requires.txt
+writing top-level names to ../../build/my_waypoint_tools/my_waypoint_tools.egg-info/top_level.txt
+writing manifest file '../../build/my_waypoint_tools/my_waypoint_tools.egg-info/SOURCES.txt'
+reading manifest file '../../build/my_waypoint_tools/my_waypoint_tools.egg-info/SOURCES.txt'
+writing manifest file '../../build/my_waypoint_tools/my_waypoint_tools.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/csl/isaac_routing2_v2/build/my_waypoint_tools/build
+creating /home/csl/isaac_routing2_v2/build/my_waypoint_tools/build/lib
+creating /home/csl/isaac_routing2_v2/build/my_waypoint_tools/build/lib/my_waypoint_tools
+copying my_waypoint_tools/__init__.py -> /home/csl/isaac_routing2_v2/build/my_waypoint_tools/build/lib/my_waypoint_tools
+copying my_waypoint_tools/goal_select.py -> /home/csl/isaac_routing2_v2/build/my_waypoint_tools/build/lib/my_waypoint_tools
+running install
+running install_lib
+creating /home/csl/isaac_routing2_v2/install/my_waypoint_tools/lib/python3.10/site-packages/my_waypoint_tools
+copying /home/csl/isaac_routing2_v2/build/my_waypoint_tools/build/lib/my_waypoint_tools/__init__.py -> /home/csl/isaac_routing2_v2/install/my_waypoint_tools/lib/python3.10/site-packages/my_waypoint_tools
+copying /home/csl/isaac_routing2_v2/build/my_waypoint_tools/build/lib/my_waypoint_tools/goal_select.py -> /home/csl/isaac_routing2_v2/install/my_waypoint_tools/lib/python3.10/site-packages/my_waypoint_tools
+byte-compiling /home/csl/isaac_routing2_v2/install/my_waypoint_tools/lib/python3.10/site-packages/my_waypoint_tools/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/csl/isaac_routing2_v2/install/my_waypoint_tools/lib/python3.10/site-packages/my_waypoint_tools/goal_select.py to goal_select.cpython-310.pyc
+running install_data
+creating /home/csl/isaac_routing2_v2/install/my_waypoint_tools/share/ament_index
+creating /home/csl/isaac_routing2_v2/install/my_waypoint_tools/share/ament_index/resource_index
+creating /home/csl/isaac_routing2_v2/install/my_waypoint_tools/share/ament_index/resource_index/packages
+copying resource/my_waypoint_tools -> /home/csl/isaac_routing2_v2/install/my_waypoint_tools/share/ament_index/resource_index/packages
+copying package.xml -> /home/csl/isaac_routing2_v2/install/my_waypoint_tools/share/my_waypoint_tools
+running install_egg_info
+Copying ../../build/my_waypoint_tools/my_waypoint_tools.egg-info to /home/csl/isaac_routing2_v2/install/my_waypoint_tools/lib/python3.10/site-packages/my_waypoint_tools-0.0.0-py3.10.egg-info
+running install_scripts
+Installing goal_select script to /home/csl/isaac_routing2_v2/install/my_waypoint_tools/lib/my_waypoint_tools
+writing list of installed files to '/home/csl/isaac_routing2_v2/build/my_waypoint_tools/install.log'

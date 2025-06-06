@@ -1,0 +1,6 @@
+image: tsmc_4f_p1.png
+resolution: 0.05
+origin: [89.6250015258789, 69.2750030517578, 0.0000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196

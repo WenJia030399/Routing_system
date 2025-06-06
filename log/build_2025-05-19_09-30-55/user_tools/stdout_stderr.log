@@ -1,0 +1,28 @@
+running egg_info
+writing ../../build/user_tools/user_tools.egg-info/PKG-INFO
+writing dependency_links to ../../build/user_tools/user_tools.egg-info/dependency_links.txt
+writing entry points to ../../build/user_tools/user_tools.egg-info/entry_points.txt
+writing requirements to ../../build/user_tools/user_tools.egg-info/requires.txt
+writing top-level names to ../../build/user_tools/user_tools.egg-info/top_level.txt
+reading manifest file '../../build/user_tools/user_tools.egg-info/SOURCES.txt'
+writing manifest file '../../build/user_tools/user_tools.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/csl/isaac_routing2_v2/build/user_tools/build/lib/user_tools
+copying user_tools/__init__.py -> /home/csl/isaac_routing2_v2/build/user_tools/build/lib/user_tools
+copying user_tools/goal_select.py -> /home/csl/isaac_routing2_v2/build/user_tools/build/lib/user_tools
+running install
+running install_lib
+creating /home/csl/isaac_routing2_v2/install/user_tools/lib/python3.10/site-packages/user_tools
+copying /home/csl/isaac_routing2_v2/build/user_tools/build/lib/user_tools/__init__.py -> /home/csl/isaac_routing2_v2/install/user_tools/lib/python3.10/site-packages/user_tools
+copying /home/csl/isaac_routing2_v2/build/user_tools/build/lib/user_tools/goal_select.py -> /home/csl/isaac_routing2_v2/install/user_tools/lib/python3.10/site-packages/user_tools
+byte-compiling /home/csl/isaac_routing2_v2/install/user_tools/lib/python3.10/site-packages/user_tools/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/csl/isaac_routing2_v2/install/user_tools/lib/python3.10/site-packages/user_tools/goal_select.py to goal_select.cpython-310.pyc
+running install_data
+copying resource/user_tools -> /home/csl/isaac_routing2_v2/install/user_tools/share/ament_index/resource_index/packages
+copying package.xml -> /home/csl/isaac_routing2_v2/install/user_tools/share/user_tools
+running install_egg_info
+Copying ../../build/user_tools/user_tools.egg-info to /home/csl/isaac_routing2_v2/install/user_tools/lib/python3.10/site-packages/user_tools-0.0.0-py3.10.egg-info
+running install_scripts
+Installing goal_select script to /home/csl/isaac_routing2_v2/install/user_tools/lib/user_tools
+writing list of installed files to '/home/csl/isaac_routing2_v2/build/user_tools/install.log'

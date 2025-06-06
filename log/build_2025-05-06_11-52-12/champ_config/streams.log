@@ -1,0 +1,63 @@
+[0.058s] Invoking command in '/home/csl/isaac_routing2_v2/build/champ_config': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/csl/isaac_routing2_v2/src/champ/champ_config -DCMAKE_INSTALL_PREFIX=/home/csl/isaac_routing2_v2/install/champ_config
+[0.901s] -- The C compiler identification is GNU 12.3.0
+[0.903s] -- The CXX compiler identification is GNU 11.4.0
+[0.903s] -- Detecting C compiler ABI info
+[0.903s] -- Detecting C compiler ABI info - done
+[0.903s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.903s] -- Detecting C compile features
+[0.903s] -- Detecting C compile features - done
+[0.903s] -- Detecting CXX compiler ABI info
+[0.903s] -- Detecting CXX compiler ABI info - done
+[0.903s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.904s] -- Detecting CXX compile features
+[0.904s] -- Detecting CXX compile features - done
+[0.904s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.904s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.012s] -- Configuring done
+[1.021s] -- Generating done
+[1.023s] -- Build files have been written to: /home/csl/isaac_routing2_v2/build/champ_config
+[1.043s] Invoked command in '/home/csl/isaac_routing2_v2/build/champ_config' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/csl/isaac_routing2_v2/src/champ/champ_config -DCMAKE_INSTALL_PREFIX=/home/csl/isaac_routing2_v2/install/champ_config
+[1.044s] Invoking command in '/home/csl/isaac_routing2_v2/build/champ_config': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/csl/isaac_routing2_v2/build/champ_config -- -j16 -l16
+[1.086s] Invoked command in '/home/csl/isaac_routing2_v2/build/champ_config' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/csl/isaac_routing2_v2/build/champ_config -- -j16 -l16
+[1.087s] Invoking command in '/home/csl/isaac_routing2_v2/build/champ_config': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/csl/isaac_routing2_v2/build/champ_config
+[1.146s] -- Install configuration: ""
+[1.146s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/launch
+[1.146s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/launch/gazebo.launch.py
+[1.146s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/launch/bringup.launch.py
+[1.148s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/launch/navigate.launch.py
+[1.149s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/launch/slam.launch.py
+[1.149s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/config
+[1.149s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/config/autonomy
+[1.149s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/config/autonomy/navigation.yaml
+[1.149s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/config/autonomy/slam.yaml
+[1.149s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/config/joints
+[1.150s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/config/joints/joints.yaml
+[1.150s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/config/gait
+[1.150s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/config/gait/gait.yaml
+[1.151s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/config/links
+[1.151s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/config/links/links.yaml
+[1.151s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/maps
+[1.151s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/maps/map.pgm
+[1.151s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/maps/map.yaml
+[1.151s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/maps/playground.pgm
+[1.151s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/maps/playground.yaml
+[1.151s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/worlds
+[1.151s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/worlds/default.world
+[1.151s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/worlds/playground.world
+[1.151s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/worlds/outdoor.world
+[1.151s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/ament_index/resource_index/package_run_dependencies/champ_config
+[1.152s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/ament_index/resource_index/parent_prefix_path/champ_config
+[1.152s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/environment/ament_prefix_path.sh
+[1.152s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/environment/ament_prefix_path.dsv
+[1.152s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/environment/path.sh
+[1.152s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/environment/path.dsv
+[1.154s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/local_setup.bash
+[1.154s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/local_setup.sh
+[1.154s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/local_setup.zsh
+[1.154s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/local_setup.dsv
+[1.154s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/package.dsv
+[1.155s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/ament_index/resource_index/packages/champ_config
+[1.155s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/cmake/champ_configConfig.cmake
+[1.155s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/cmake/champ_configConfig-version.cmake
+[1.155s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_config/share/champ_config/package.xml
+[1.200s] Invoked command in '/home/csl/isaac_routing2_v2/build/champ_config' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/csl/isaac_routing2_v2/build/champ_config

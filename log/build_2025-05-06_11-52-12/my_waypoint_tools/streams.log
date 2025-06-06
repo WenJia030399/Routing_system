@@ -1,0 +1,37 @@
+[1.497s] Invoking command in '/home/csl/isaac_routing2_v2/src/my_waypoint_tools': PYTHONPATH=/home/csl/isaac_routing2_v2/build/my_waypoint_tools/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/csl/isaac_routing2_v2/install/my_waypoint_tools/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_waypoint_tools build --build-base /home/csl/isaac_routing2_v2/build/my_waypoint_tools/build install --record /home/csl/isaac_routing2_v2/build/my_waypoint_tools/install.log --single-version-externally-managed install_data
+[1.778s] running egg_info
+[1.778s] creating ../../build/my_waypoint_tools/my_waypoint_tools.egg-info
+[1.779s] writing ../../build/my_waypoint_tools/my_waypoint_tools.egg-info/PKG-INFO
+[1.779s] writing dependency_links to ../../build/my_waypoint_tools/my_waypoint_tools.egg-info/dependency_links.txt
+[1.779s] writing entry points to ../../build/my_waypoint_tools/my_waypoint_tools.egg-info/entry_points.txt
+[1.779s] writing requirements to ../../build/my_waypoint_tools/my_waypoint_tools.egg-info/requires.txt
+[1.779s] writing top-level names to ../../build/my_waypoint_tools/my_waypoint_tools.egg-info/top_level.txt
+[1.779s] writing manifest file '../../build/my_waypoint_tools/my_waypoint_tools.egg-info/SOURCES.txt'
+[1.782s] reading manifest file '../../build/my_waypoint_tools/my_waypoint_tools.egg-info/SOURCES.txt'
+[1.782s] writing manifest file '../../build/my_waypoint_tools/my_waypoint_tools.egg-info/SOURCES.txt'
+[1.782s] running build
+[1.783s] running build_py
+[1.783s] creating /home/csl/isaac_routing2_v2/build/my_waypoint_tools/build
+[1.783s] creating /home/csl/isaac_routing2_v2/build/my_waypoint_tools/build/lib
+[1.783s] creating /home/csl/isaac_routing2_v2/build/my_waypoint_tools/build/lib/my_waypoint_tools
+[1.783s] copying my_waypoint_tools/__init__.py -> /home/csl/isaac_routing2_v2/build/my_waypoint_tools/build/lib/my_waypoint_tools
+[1.783s] copying my_waypoint_tools/goal_select.py -> /home/csl/isaac_routing2_v2/build/my_waypoint_tools/build/lib/my_waypoint_tools
+[1.783s] running install
+[1.784s] running install_lib
+[1.785s] creating /home/csl/isaac_routing2_v2/install/my_waypoint_tools/lib/python3.10/site-packages/my_waypoint_tools
+[1.785s] copying /home/csl/isaac_routing2_v2/build/my_waypoint_tools/build/lib/my_waypoint_tools/__init__.py -> /home/csl/isaac_routing2_v2/install/my_waypoint_tools/lib/python3.10/site-packages/my_waypoint_tools
+[1.785s] copying /home/csl/isaac_routing2_v2/build/my_waypoint_tools/build/lib/my_waypoint_tools/goal_select.py -> /home/csl/isaac_routing2_v2/install/my_waypoint_tools/lib/python3.10/site-packages/my_waypoint_tools
+[1.786s] byte-compiling /home/csl/isaac_routing2_v2/install/my_waypoint_tools/lib/python3.10/site-packages/my_waypoint_tools/__init__.py to __init__.cpython-310.pyc
+[1.787s] byte-compiling /home/csl/isaac_routing2_v2/install/my_waypoint_tools/lib/python3.10/site-packages/my_waypoint_tools/goal_select.py to goal_select.cpython-310.pyc
+[1.787s] running install_data
+[1.787s] creating /home/csl/isaac_routing2_v2/install/my_waypoint_tools/share/ament_index
+[1.787s] creating /home/csl/isaac_routing2_v2/install/my_waypoint_tools/share/ament_index/resource_index
+[1.787s] creating /home/csl/isaac_routing2_v2/install/my_waypoint_tools/share/ament_index/resource_index/packages
+[1.788s] copying resource/my_waypoint_tools -> /home/csl/isaac_routing2_v2/install/my_waypoint_tools/share/ament_index/resource_index/packages
+[1.788s] copying package.xml -> /home/csl/isaac_routing2_v2/install/my_waypoint_tools/share/my_waypoint_tools
+[1.788s] running install_egg_info
+[1.790s] Copying ../../build/my_waypoint_tools/my_waypoint_tools.egg-info to /home/csl/isaac_routing2_v2/install/my_waypoint_tools/lib/python3.10/site-packages/my_waypoint_tools-0.0.0-py3.10.egg-info
+[1.791s] running install_scripts
+[1.813s] Installing goal_select script to /home/csl/isaac_routing2_v2/install/my_waypoint_tools/lib/my_waypoint_tools
+[1.813s] writing list of installed files to '/home/csl/isaac_routing2_v2/build/my_waypoint_tools/install.log'
+[1.853s] Invoked command in '/home/csl/isaac_routing2_v2/src/my_waypoint_tools' returned '0': PYTHONPATH=/home/csl/isaac_routing2_v2/build/my_waypoint_tools/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/csl/isaac_routing2_v2/install/my_waypoint_tools/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_waypoint_tools build --build-base /home/csl/isaac_routing2_v2/build/my_waypoint_tools/build install --record /home/csl/isaac_routing2_v2/build/my_waypoint_tools/install.log --single-version-externally-managed install_data

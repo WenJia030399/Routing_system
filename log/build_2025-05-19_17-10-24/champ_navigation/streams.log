@@ -1,0 +1,29 @@
+[0.116s] Invoking command in '/home/csl/isaac_routing2_v2/build/champ_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/csl/isaac_routing2_v2/install/user_tools:/home/csl/isaac_routing2_v2/install/spot_routing_nav:/home/csl/isaac_routing2_v2/install/routing_agent:/home/csl/isaac_routing2_v2/install/my_waypoint_tools:/opt/ros/humble /usr/bin/cmake --build /home/csl/isaac_routing2_v2/build/champ_navigation -- -j16 -l16
+[1.012s] Invoked command in '/home/csl/isaac_routing2_v2/build/champ_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/csl/isaac_routing2_v2/install/user_tools:/home/csl/isaac_routing2_v2/install/spot_routing_nav:/home/csl/isaac_routing2_v2/install/routing_agent:/home/csl/isaac_routing2_v2/install/my_waypoint_tools:/opt/ros/humble /usr/bin/cmake --build /home/csl/isaac_routing2_v2/build/champ_navigation -- -j16 -l16
+[1.019s] Invoking command in '/home/csl/isaac_routing2_v2/build/champ_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/csl/isaac_routing2_v2/install/user_tools:/home/csl/isaac_routing2_v2/install/spot_routing_nav:/home/csl/isaac_routing2_v2/install/routing_agent:/home/csl/isaac_routing2_v2/install/my_waypoint_tools:/opt/ros/humble /usr/bin/cmake --install /home/csl/isaac_routing2_v2/build/champ_navigation
+[1.090s] -- Install configuration: ""
+[1.090s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_navigation/share/champ_navigation/launch
+[1.092s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_navigation/share/champ_navigation/launch/navigate.launch.py
+[1.092s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_navigation/share/champ_navigation/launch/slam.launch.py
+[1.092s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_navigation/share/champ_navigation/rviz
+[1.092s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_navigation/share/champ_navigation/rviz/go2_navigation.rviz
+[1.092s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_navigation/share/champ_navigation/rviz/navigation_minimal.rviz
+[1.092s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_navigation/share/champ_navigation/rviz/navigation.rviz
+[1.093s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_navigation/share/champ_navigation/rviz/spot_navigation.rviz
+[1.093s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_navigation/share/champ_navigation/rviz/slam.rviz
+[1.093s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_navigation/share/ament_index/resource_index/package_run_dependencies/champ_navigation
+[1.093s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_navigation/share/ament_index/resource_index/parent_prefix_path/champ_navigation
+[1.093s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_navigation/share/champ_navigation/environment/ament_prefix_path.sh
+[1.093s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_navigation/share/champ_navigation/environment/ament_prefix_path.dsv
+[1.093s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_navigation/share/champ_navigation/environment/path.sh
+[1.093s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_navigation/share/champ_navigation/environment/path.dsv
+[1.093s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_navigation/share/champ_navigation/local_setup.bash
+[1.093s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_navigation/share/champ_navigation/local_setup.sh
+[1.093s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_navigation/share/champ_navigation/local_setup.zsh
+[1.093s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_navigation/share/champ_navigation/local_setup.dsv
+[1.093s] -- Installing: /home/csl/isaac_routing2_v2/install/champ_navigation/share/champ_navigation/package.dsv
+[1.094s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_navigation/share/ament_index/resource_index/packages/champ_navigation
+[1.094s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_navigation/share/champ_navigation/cmake/champ_navigationConfig.cmake
+[1.094s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_navigation/share/champ_navigation/cmake/champ_navigationConfig-version.cmake
+[1.094s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/champ_navigation/share/champ_navigation/package.xml
+[1.280s] Invoked command in '/home/csl/isaac_routing2_v2/build/champ_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/csl/isaac_routing2_v2/install/user_tools:/home/csl/isaac_routing2_v2/install/spot_routing_nav:/home/csl/isaac_routing2_v2/install/routing_agent:/home/csl/isaac_routing2_v2/install/my_waypoint_tools:/opt/ros/humble /usr/bin/cmake --install /home/csl/isaac_routing2_v2/build/champ_navigation

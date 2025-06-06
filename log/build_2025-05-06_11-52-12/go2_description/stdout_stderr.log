@@ -1,0 +1,51 @@
+-- The C compiler identification is GNU 12.3.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/csl/isaac_routing2_v2/build/go2_description
+-- Install configuration: ""
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/launch
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/launch/go2_rviz.launch
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/launch/check_joint.rviz
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/launch/description.launch.py
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/launch/gazebo.launch
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/meshes
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/meshes/calf.dae
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/meshes/calf_mirror.dae
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/meshes/trunk.dae
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/meshes/thigh.dae
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/meshes/foot.dae
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/meshes/thigh_mirror.dae
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/meshes/hip.dae
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/urdf
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/urdf/Normal_collision_model.png
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/urdf/Amended_collision_model.png
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/urdf/go2_description.urdf
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/ament_index/resource_index/package_run_dependencies/go2_description
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/ament_index/resource_index/parent_prefix_path/go2_description
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/environment/ament_prefix_path.sh
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/environment/ament_prefix_path.dsv
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/environment/path.sh
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/environment/path.dsv
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/local_setup.bash
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/local_setup.sh
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/local_setup.zsh
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/local_setup.dsv
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/package.dsv
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/ament_index/resource_index/packages/go2_description
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/cmake/go2_descriptionConfig.cmake
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/cmake/go2_descriptionConfig-version.cmake
+-- Installing: /home/csl/isaac_routing2_v2/install/go2_description/share/go2_description/package.xml

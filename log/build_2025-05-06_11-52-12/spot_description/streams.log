@@ -1,0 +1,82 @@
+[0.435s] Invoking command in '/home/csl/isaac_routing2_v2/build/spot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/csl/isaac_routing2_v2/src/champ/spot_description -DCMAKE_INSTALL_PREFIX=/home/csl/isaac_routing2_v2/install/spot_description
+[0.966s] -- The C compiler identification is GNU 12.3.0
+[0.968s] -- The CXX compiler identification is GNU 11.4.0
+[0.969s] -- Detecting C compiler ABI info
+[0.969s] -- Detecting C compiler ABI info - done
+[0.969s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.969s] -- Detecting C compile features
+[0.969s] -- Detecting C compile features - done
+[0.969s] -- Detecting CXX compiler ABI info
+[0.969s] -- Detecting CXX compiler ABI info - done
+[0.969s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.969s] -- Detecting CXX compile features
+[0.969s] -- Detecting CXX compile features - done
+[0.970s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.068s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.185s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.274s] -- Configuring done
+[1.274s] -- Generating done
+[1.276s] -- Build files have been written to: /home/csl/isaac_routing2_v2/build/spot_description
+[1.281s] Invoked command in '/home/csl/isaac_routing2_v2/build/spot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/csl/isaac_routing2_v2/src/champ/spot_description -DCMAKE_INSTALL_PREFIX=/home/csl/isaac_routing2_v2/install/spot_description
+[1.284s] Invoking command in '/home/csl/isaac_routing2_v2/build/spot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/csl/isaac_routing2_v2/build/spot_description -- -j16 -l16
+[1.305s] Invoked command in '/home/csl/isaac_routing2_v2/build/spot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/csl/isaac_routing2_v2/build/spot_description -- -j16 -l16
+[1.307s] Invoking command in '/home/csl/isaac_routing2_v2/build/spot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/csl/isaac_routing2_v2/build/spot_description
+[1.311s] -- Install configuration: ""
+[1.311s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/launch
+[1.311s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/launch/description.launch.py
+[1.312s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/launch/description.launch
+[1.312s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/meshes
+[1.312s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/meshes/front_left_hip_collision.stl
+[1.313s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/meshes/rear_left_upper_leg_collision.stl
+[1.313s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/meshes/front_right_upper_leg_collision.stl
+[1.313s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/meshes/rear_right_hip.dae
+[1.316s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/meshes/spot_mat.png
+[1.316s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/meshes/front_left_lower_leg.dae
+[1.319s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/meshes/rear_right_hip_collision.stl
+[1.320s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/meshes/front_right_hip.dae
+[1.324s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/meshes/front_right_lower_leg_collision.stl
+[1.325s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/meshes/body_collision.stl
+[1.325s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/meshes/rear_left_upper_leg.dae
+[1.325s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/meshes/rear_left_hip_collision.stl
+[1.326s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/meshes/rear_right_lower_leg_collision.stl
+[1.326s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/meshes/front_right_upper_leg.dae
+[1.329s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/meshes/front_left_upper_leg_collision.stl
+[1.329s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/meshes/front_left_hip.dae
+[1.333s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/meshes/rear_right_lower_leg.dae
+[1.334s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/meshes/rear_right_upper_leg.dae
+[1.336s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/meshes/front_left_lower_leg_collision.stl
+[1.337s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/meshes/front_right_hip_collision.stl
+[1.337s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/meshes/front_right_lower_leg.dae
+[1.339s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/meshes/rear_left_lower_leg.dae
+[1.341s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/meshes/front_left_upper_leg.dae
+[1.344s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/meshes/rear_left_lower_leg_collision.stl
+[1.344s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/meshes/rear_right_upper_leg_collision.stl
+[1.344s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/meshes/body.dae
+[1.353s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/meshes/rear_left_hip.dae
+[1.355s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/urdf
+[1.355s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/urdf/accessories.urdf.xacro
+[1.356s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/urdf/spot.urdf.xacro
+[1.356s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/urdf/empty.urdf
+[1.356s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/urdf/constants.urdf.xacro
+[1.356s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/urdf/spot
+[1.357s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/urdf/spot/materials
+[1.357s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/urdf/spot/materials/spot_mat.png
+[1.357s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/urdf/spot/spot.usd
+[1.417s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/urdf/spot.urdf
+[1.418s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/urdf/spot_leg.urdf.xacro
+[1.418s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/ament_index/resource_index/package_run_dependencies/spot_description
+[1.419s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/ament_index/resource_index/parent_prefix_path/spot_description
+[1.419s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/environment/ament_prefix_path.sh
+[1.419s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/environment/ament_prefix_path.dsv
+[1.419s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/environment/path.sh
+[1.419s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/environment/path.dsv
+[1.419s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/local_setup.bash
+[1.419s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/local_setup.sh
+[1.420s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/local_setup.zsh
+[1.420s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/local_setup.dsv
+[1.420s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/package.dsv
+[1.420s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/ament_index/resource_index/packages/spot_description
+[1.420s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/cmake/spot_descriptionConfig.cmake
+[1.421s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/cmake/spot_descriptionConfig-version.cmake
+[1.421s] -- Installing: /home/csl/isaac_routing2_v2/install/spot_description/share/spot_description/package.xml
+[1.425s] Invoked command in '/home/csl/isaac_routing2_v2/build/spot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/csl/isaac_routing2_v2/build/spot_description

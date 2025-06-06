@@ -1,0 +1,110 @@
+[0.795s] Invoking command in '/home/csl/isaac_routing2_v2/src/routing_engine/routing_agent': AMENT_PREFIX_PATH=/home/csl/isaac_routing2_v2/install/routing_agent_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/csl/isaac_routing2_v2/install/routing_agent_interfaces LD_LIBRARY_PATH=/home/csl/isaac_routing2_v2/install/routing_agent_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/csl/isaac_routing2_v2/build/routing_agent/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages:/home/csl/isaac_routing2_v2/install/routing_agent_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/routing_agent build --build-base /home/csl/isaac_routing2_v2/build/routing_agent/build install --record /home/csl/isaac_routing2_v2/build/routing_agent/install.log --single-version-externally-managed install_data
+[1.101s] running egg_info
+[1.101s] creating ../../../build/routing_agent/routing_agent.egg-info
+[1.102s] writing ../../../build/routing_agent/routing_agent.egg-info/PKG-INFO
+[1.102s] writing dependency_links to ../../../build/routing_agent/routing_agent.egg-info/dependency_links.txt
+[1.102s] writing entry points to ../../../build/routing_agent/routing_agent.egg-info/entry_points.txt
+[1.102s] writing requirements to ../../../build/routing_agent/routing_agent.egg-info/requires.txt
+[1.102s] writing top-level names to ../../../build/routing_agent/routing_agent.egg-info/top_level.txt
+[1.103s] writing manifest file '../../../build/routing_agent/routing_agent.egg-info/SOURCES.txt'
+[1.106s] reading manifest file '../../../build/routing_agent/routing_agent.egg-info/SOURCES.txt'
+[1.107s] adding license file 'LICENSE'
+[1.107s] writing manifest file '../../../build/routing_agent/routing_agent.egg-info/SOURCES.txt'
+[1.108s] running build
+[1.108s] running build_py
+[1.108s] creating /home/csl/isaac_routing2_v2/build/routing_agent/build
+[1.108s] creating /home/csl/isaac_routing2_v2/build/routing_agent/build/lib
+[1.108s] creating /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent
+[1.108s] copying routing_agent/RoutingAgentExport.py -> /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent
+[1.109s] copying routing_agent/FindPath.py -> /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent
+[1.109s] copying routing_agent/RoutingAgent.py -> /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent
+[1.109s] copying routing_agent/__init__.py -> /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent
+[1.109s] copying routing_agent/NavClient.py -> /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent
+[1.110s] copying routing_agent/MergeWaypointGraphClient.py -> /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent
+[1.110s] copying routing_agent/ConvertDataFormat.py -> /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent
+[1.110s] copying routing_agent/RoutingServer.py -> /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent
+[1.111s] copying routing_agent/RoutingClient.py -> /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent
+[1.111s] copying routing_agent/Task.py -> /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent
+[1.111s] copying routing_agent/Node.py -> /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent
+[1.111s] copying routing_agent/RoutingEngine.py -> /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent
+[1.112s] copying routing_agent/waypoint_visualizer.py -> /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent
+[1.112s] copying routing_agent/Vector.py -> /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent
+[1.112s] copying routing_agent/LoadWaypointGraphClient.py -> /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent
+[1.113s] copying routing_agent/WaypointGraph.py -> /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent
+[1.113s] copying routing_agent/OR.py -> /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent
+[1.113s] copying routing_agent/PreprocessToolkit.py -> /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent
+[1.114s] copying routing_agent/Vehicle.py -> /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent
+[1.115s] running install
+[1.115s] running install_lib
+[1.117s] creating /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent
+[1.117s] copying /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent/RoutingAgentExport.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent
+[1.118s] copying /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent/FindPath.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent
+[1.118s] copying /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent/RoutingAgent.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent
+[1.118s] copying /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent/__init__.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent
+[1.118s] copying /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent/NavClient.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent
+[1.118s] copying /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent/MergeWaypointGraphClient.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent
+[1.118s] copying /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent/ConvertDataFormat.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent
+[1.118s] copying /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent/RoutingServer.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent
+[1.119s] copying /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent/RoutingClient.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent
+[1.119s] copying /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent/Task.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent
+[1.119s] copying /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent/Node.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent
+[1.119s] copying /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent/RoutingEngine.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent
+[1.119s] copying /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent/waypoint_visualizer.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent
+[1.119s] copying /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent/Vector.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent
+[1.119s] copying /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent/LoadWaypointGraphClient.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent
+[1.119s] copying /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent/WaypointGraph.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent
+[1.120s] copying /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent/OR.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent
+[1.120s] copying /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent/PreprocessToolkit.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent
+[1.120s] copying /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent/Vehicle.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent
+[1.121s] byte-compiling /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent/RoutingAgentExport.py to RoutingAgentExport.cpython-310.pyc
+[1.122s] byte-compiling /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent/FindPath.py to FindPath.cpython-310.pyc
+[1.124s] byte-compiling /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent/RoutingAgent.py to RoutingAgent.cpython-310.pyc
+[1.124s] byte-compiling /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent/__init__.py to __init__.cpython-310.pyc
+[1.125s] byte-compiling /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent/NavClient.py to NavClient.cpython-310.pyc
+[1.125s] byte-compiling /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent/MergeWaypointGraphClient.py to MergeWaypointGraphClient.cpython-310.pyc
+[1.126s] byte-compiling /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent/ConvertDataFormat.py to ConvertDataFormat.cpython-310.pyc
+[1.128s] byte-compiling /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent/RoutingServer.py to RoutingServer.cpython-310.pyc
+[1.129s] byte-compiling /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent/RoutingClient.py to RoutingClient.cpython-310.pyc
+[1.130s] byte-compiling /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent/Task.py to Task.cpython-310.pyc
+[1.130s] byte-compiling /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent/Node.py to Node.cpython-310.pyc
+[1.131s] byte-compiling /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent/RoutingEngine.py to RoutingEngine.cpython-310.pyc
+[1.133s] byte-compiling /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent/waypoint_visualizer.py to waypoint_visualizer.cpython-310.pyc
+[1.134s] byte-compiling /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent/Vector.py to Vector.cpython-310.pyc
+[1.134s] byte-compiling /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent/LoadWaypointGraphClient.py to LoadWaypointGraphClient.cpython-310.pyc
+[1.135s] byte-compiling /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent/WaypointGraph.py to WaypointGraph.cpython-310.pyc
+[1.137s] byte-compiling /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent/OR.py to OR.cpython-310.pyc
+[1.137s] byte-compiling /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent/PreprocessToolkit.py to PreprocessToolkit.cpython-310.pyc
+[1.138s] byte-compiling /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent/Vehicle.py to Vehicle.cpython-310.pyc
+[1.138s] running install_data
+[1.138s] creating /home/csl/isaac_routing2_v2/install/routing_agent/share/ament_index
+[1.138s] creating /home/csl/isaac_routing2_v2/install/routing_agent/share/ament_index/resource_index
+[1.139s] creating /home/csl/isaac_routing2_v2/install/routing_agent/share/ament_index/resource_index/packages
+[1.139s] copying resource/routing_agent -> /home/csl/isaac_routing2_v2/install/routing_agent/share/ament_index/resource_index/packages
+[1.139s] copying package.xml -> /home/csl/isaac_routing2_v2/install/routing_agent/share/routing_agent
+[1.139s] copying launch/InitAndRun.launch.py -> /home/csl/isaac_routing2_v2/install/routing_agent/share/routing_agent
+[1.139s] copying launch/RunServer.launch.py -> /home/csl/isaac_routing2_v2/install/routing_agent/share/routing_agent
+[1.139s] creating /home/csl/isaac_routing2_v2/install/routing_agent/lib/routing_agent
+[1.140s] copying routing_agent/ConvertDataFormat.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/routing_agent
+[1.140s] copying routing_agent/FindPath.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/routing_agent
+[1.140s] copying routing_agent/Task.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/routing_agent
+[1.140s] copying routing_agent/Vehicle.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/routing_agent
+[1.140s] copying routing_agent/Vector.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/routing_agent
+[1.140s] copying routing_agent/OR.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/routing_agent
+[1.140s] copying routing_agent/RoutingAgentExport.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/routing_agent
+[1.141s] copying routing_agent/Node.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/routing_agent
+[1.141s] copying routing_agent/WaypointGraph.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/routing_agent
+[1.141s] copying routing_agent/RoutingEngine.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/routing_agent
+[1.142s] copying routing_agent/RoutingClient.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/routing_agent
+[1.142s] copying routing_agent/RoutingServer.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/routing_agent
+[1.142s] copying routing_agent/PreprocessToolkit.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/routing_agent
+[1.143s] copying routing_agent/waypoint_visualizer.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/routing_agent
+[1.143s] running install_egg_info
+[1.145s] Copying ../../../build/routing_agent/routing_agent.egg-info to /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent-1.1.0-py3.10.egg-info
+[1.145s] running install_scripts
+[1.169s] Installing loadGraph script to /home/csl/isaac_routing2_v2/install/routing_agent/lib/routing_agent
+[1.169s] Installing mergeGraph script to /home/csl/isaac_routing2_v2/install/routing_agent/lib/routing_agent
+[1.170s] Installing nav script to /home/csl/isaac_routing2_v2/install/routing_agent/lib/routing_agent
+[1.170s] Installing routingClient script to /home/csl/isaac_routing2_v2/install/routing_agent/lib/routing_agent
+[1.170s] Installing server script to /home/csl/isaac_routing2_v2/install/routing_agent/lib/routing_agent
+[1.170s] writing list of installed files to '/home/csl/isaac_routing2_v2/build/routing_agent/install.log'
+[1.215s] Invoked command in '/home/csl/isaac_routing2_v2/src/routing_engine/routing_agent' returned '0': AMENT_PREFIX_PATH=/home/csl/isaac_routing2_v2/install/routing_agent_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/csl/isaac_routing2_v2/install/routing_agent_interfaces LD_LIBRARY_PATH=/home/csl/isaac_routing2_v2/install/routing_agent_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/csl/isaac_routing2_v2/build/routing_agent/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages:/home/csl/isaac_routing2_v2/install/routing_agent_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/routing_agent build --build-base /home/csl/isaac_routing2_v2/build/routing_agent/build install --record /home/csl/isaac_routing2_v2/build/routing_agent/install.log --single-version-externally-managed install_data

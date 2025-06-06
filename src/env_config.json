@@ -1,0 +1,28 @@
+{
+    "ENV_USD_PATH": "/home/csl/isaac_routing/usd/tsmc_1f.usd",
+    "spot_init_pose": [
+        40.0,
+        30.0,
+        0.87
+    ],
+    "spot_init_orientation": [
+        1,
+        0,
+        0,
+        0
+    ],
+    "rviz_initial_pose": [
+        40.0,
+        30.0,
+        0.087,
+        0.0
+    ],
+    "rviz_map": "/home/csl/isaac_routing2_v2/yaml/tsmc_1f.yaml",
+    "waypoint_graph": "/home/csl/isaac_routing/src/routing_engine/graph_collector_and_visualization/tsmc_1f.json",
+    "latestSolutionPath": [
+        "000_001",
+        "000_017",
+        "000_016",
+        "000_015"
+    ]
+}

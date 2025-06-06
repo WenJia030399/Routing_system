@@ -1,0 +1,28 @@
+running egg_info
+writing ../../../build/routing_agent/routing_agent.egg-info/PKG-INFO
+writing dependency_links to ../../../build/routing_agent/routing_agent.egg-info/dependency_links.txt
+writing entry points to ../../../build/routing_agent/routing_agent.egg-info/entry_points.txt
+writing requirements to ../../../build/routing_agent/routing_agent.egg-info/requires.txt
+writing top-level names to ../../../build/routing_agent/routing_agent.egg-info/top_level.txt
+reading manifest file '../../../build/routing_agent/routing_agent.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../../build/routing_agent/routing_agent.egg-info/SOURCES.txt'
+running build
+running build_py
+copying routing_agent/RoutingClient.py -> /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent
+running install
+running install_lib
+copying /home/csl/isaac_routing2_v2/build/routing_agent/build/lib/routing_agent/RoutingClient.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent
+byte-compiling /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent/RoutingClient.py to RoutingClient.cpython-310.pyc
+running install_data
+copying routing_agent/RoutingClient.py -> /home/csl/isaac_routing2_v2/install/routing_agent/lib/routing_agent
+running install_egg_info
+removing '/home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent-1.1.0-py3.10.egg-info' (and everything under it)
+Copying ../../../build/routing_agent/routing_agent.egg-info to /home/csl/isaac_routing2_v2/install/routing_agent/lib/python3.10/site-packages/routing_agent-1.1.0-py3.10.egg-info
+running install_scripts
+Installing loadGraph script to /home/csl/isaac_routing2_v2/install/routing_agent/lib/routing_agent
+Installing mergeGraph script to /home/csl/isaac_routing2_v2/install/routing_agent/lib/routing_agent
+Installing nav script to /home/csl/isaac_routing2_v2/install/routing_agent/lib/routing_agent
+Installing routingClient script to /home/csl/isaac_routing2_v2/install/routing_agent/lib/routing_agent
+Installing server script to /home/csl/isaac_routing2_v2/install/routing_agent/lib/routing_agent
+writing list of installed files to '/home/csl/isaac_routing2_v2/build/routing_agent/install.log'

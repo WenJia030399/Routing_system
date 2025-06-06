@@ -1,0 +1,22 @@
+[0.000000] (-) TimerEvent: {}
+[0.000120] (-) JobUnselected: {'identifier': 'champ'}
+[0.000149] (-) JobUnselected: {'identifier': 'champ_base'}
+[0.000167] (-) JobUnselected: {'identifier': 'champ_bringup'}
+[0.000192] (-) JobUnselected: {'identifier': 'champ_config'}
+[0.000207] (-) JobUnselected: {'identifier': 'champ_description'}
+[0.000221] (-) JobUnselected: {'identifier': 'champ_gazebo'}
+[0.000234] (-) JobUnselected: {'identifier': 'champ_msgs'}
+[0.000247] (-) JobUnselected: {'identifier': 'champ_navigation'}
+[0.000262] (-) JobUnselected: {'identifier': 'champ_teleop'}
+[0.000274] (-) JobUnselected: {'identifier': 'go1_config'}
+[0.000286] (-) JobUnselected: {'identifier': 'go2_description'}
+[0.000300] (-) JobUnselected: {'identifier': 'my_waypoint_tools'}
+[0.000312] (-) JobUnselected: {'identifier': 'ndt_omp_ros2'}
+[0.000325] (-) JobUnselected: {'identifier': 'pcl_localization_ros2'}
+[0.000338] (-) JobUnselected: {'identifier': 'routing_agent'}
+[0.000351] (-) JobUnselected: {'identifier': 'routing_agent_interfaces'}
+[0.000364] (-) JobUnselected: {'identifier': 'spot_config'}
+[0.000378] (-) JobUnselected: {'identifier': 'spot_description'}
+[0.000390] (-) JobUnselected: {'identifier': 'spot_routing_nav'}
+[0.000404] (-) JobUnselected: {'identifier': 'switch_map_interfaces'}
+[0.000418] (-) EventReactorShutdown: {}

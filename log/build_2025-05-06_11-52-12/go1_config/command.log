@@ -1,0 +1,6 @@
+Invoking command in '/home/csl/isaac_routing2_v2/build/go1_config': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/csl/isaac_routing2_v2/src/champ/go1_config -DCMAKE_INSTALL_PREFIX=/home/csl/isaac_routing2_v2/install/go1_config
+Invoked command in '/home/csl/isaac_routing2_v2/build/go1_config' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/csl/isaac_routing2_v2/src/champ/go1_config -DCMAKE_INSTALL_PREFIX=/home/csl/isaac_routing2_v2/install/go1_config
+Invoking command in '/home/csl/isaac_routing2_v2/build/go1_config': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/csl/isaac_routing2_v2/build/go1_config -- -j16 -l16
+Invoked command in '/home/csl/isaac_routing2_v2/build/go1_config' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/csl/isaac_routing2_v2/build/go1_config -- -j16 -l16
+Invoking command in '/home/csl/isaac_routing2_v2/build/go1_config': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/csl/isaac_routing2_v2/build/go1_config
+Invoked command in '/home/csl/isaac_routing2_v2/build/go1_config' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/csl/isaac_routing2_v2/build/go1_config

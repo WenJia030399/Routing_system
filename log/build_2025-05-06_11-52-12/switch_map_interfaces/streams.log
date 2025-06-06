@@ -1,0 +1,378 @@
+[0.838s] Invoking command in '/home/csl/isaac_routing2_v2/build/switch_map_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/csl/isaac_routing2_v2/src/routing_engine/switch_map_interfaces -DCMAKE_INSTALL_PREFIX=/home/csl/isaac_routing2_v2/install/switch_map_interfaces
+[0.965s] -- The C compiler identification is GNU 12.3.0
+[1.010s] -- The CXX compiler identification is GNU 11.4.0
+[1.027s] -- Detecting C compiler ABI info
+[1.103s] -- Detecting C compiler ABI info - done
+[1.120s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.120s] -- Detecting C compile features
+[1.120s] -- Detecting C compile features - done
+[1.120s] -- Detecting CXX compiler ABI info
+[1.204s] -- Detecting CXX compiler ABI info - done
+[1.214s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.214s] -- Detecting CXX compile features
+[1.214s] -- Detecting CXX compile features - done
+[1.216s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.392s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.502s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[1.506s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.513s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.562s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.599s] -- Found geometry_msgs: 4.2.4 (/opt/ros/humble/share/geometry_msgs/cmake)
+[1.933s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[2.119s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.406s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.440s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[2.442s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[2.477s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[2.477s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.477s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[2.477s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[2.505s] -- Found PythonExtra: .so  
+[2.581s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.610s] -- Added test 'lint_cmake' to check CMake code style
+[2.612s] -- Added test 'xmllint' to check XML markup files
+[2.615s] -- Configuring done
+[2.675s] -- Generating done
+[2.697s] -- Build files have been written to: /home/csl/isaac_routing2_v2/build/switch_map_interfaces
+[2.711s] Invoked command in '/home/csl/isaac_routing2_v2/build/switch_map_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/csl/isaac_routing2_v2/src/routing_engine/switch_map_interfaces -DCMAKE_INSTALL_PREFIX=/home/csl/isaac_routing2_v2/install/switch_map_interfaces
+[2.712s] Invoking command in '/home/csl/isaac_routing2_v2/build/switch_map_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/csl/isaac_routing2_v2/build/switch_map_interfaces -- -j16 -l16
+[2.747s] [  1%] [34m[1mGenerating C code for ROS interfaces[0m
+[2.757s] [  3%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[2.771s] [  3%] Built target ament_cmake_python_copy_switch_map_interfaces
+[3.125s] running egg_info
+[3.125s] creating switch_map_interfaces.egg-info
+[3.126s] writing switch_map_interfaces.egg-info/PKG-INFO
+[3.126s] writing dependency_links to switch_map_interfaces.egg-info/dependency_links.txt
+[3.127s] writing top-level names to switch_map_interfaces.egg-info/top_level.txt
+[3.127s] writing manifest file 'switch_map_interfaces.egg-info/SOURCES.txt'
+[3.132s] reading manifest file 'switch_map_interfaces.egg-info/SOURCES.txt'
+[3.132s] writing manifest file 'switch_map_interfaces.egg-info/SOURCES.txt'
+[3.208s] [  3%] Built target ament_cmake_python_build_switch_map_interfaces_egg
+[3.978s] [  4%] [32mBuilding C object CMakeFiles/switch_map_interfaces__rosidl_generator_c.dir/rosidl_generator_c/switch_map_interfaces/msg/detail/path_point__functions.c.o[0m
+[3.978s] [  6%] [32mBuilding C object CMakeFiles/switch_map_interfaces__rosidl_generator_c.dir/rosidl_generator_c/switch_map_interfaces/srv/detail/send_goal_pose__functions.c.o[0m
+[3.980s] [  7%] [32mBuilding C object CMakeFiles/switch_map_interfaces__rosidl_generator_c.dir/rosidl_generator_c/switch_map_interfaces/action/detail/send_goal_pose__functions.c.o[0m
+[3.982s] [  9%] [32mBuilding C object CMakeFiles/switch_map_interfaces__rosidl_generator_c.dir/rosidl_generator_c/switch_map_interfaces/srv/detail/goal_path__functions.c.o[0m
+[3.989s] [ 11%] [32mBuilding C object CMakeFiles/switch_map_interfaces__rosidl_generator_c.dir/rosidl_generator_c/switch_map_interfaces/srv/detail/single_map__functions.c.o[0m
+[4.481s] [ 11%] Built target switch_map_interfaces__cpp
+[4.501s] [ 12%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[4.509s] [ 14%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[4.513s] [ 15%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[4.595s] [ 17%] [32m[1mLinking C shared library libswitch_map_interfaces__rosidl_generator_c.so[0m
+[4.754s] [ 17%] Built target switch_map_interfaces__rosidl_generator_c
+[4.785s] [ 20%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[4.793s] [ 22%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[4.795s] [ 19%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[6.086s] [ 23%] [32mBuilding CXX object CMakeFiles/switch_map_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/switch_map_interfaces/msg/path_point__type_support.cpp.o[0m
+[6.086s] [ 25%] [32mBuilding CXX object CMakeFiles/switch_map_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/switch_map_interfaces/srv/single_map__type_support.cpp.o[0m
+[6.097s] [ 26%] [32mBuilding CXX object CMakeFiles/switch_map_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/switch_map_interfaces/srv/goal_path__type_support.cpp.o[0m
+[6.097s] [ 28%] [32mBuilding CXX object CMakeFiles/switch_map_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/switch_map_interfaces/srv/send_goal_pose__type_support.cpp.o[0m
+[6.115s] [ 30%] [32mBuilding CXX object CMakeFiles/switch_map_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/switch_map_interfaces/action/send_goal_pose__type_support.cpp.o[0m
+[6.172s] [ 31%] [32mBuilding CXX object CMakeFiles/switch_map_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/switch_map_interfaces/srv/detail/dds_fastrtps/single_map__type_support.cpp.o[0m
+[6.180s] [ 33%] [32mBuilding CXX object CMakeFiles/switch_map_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/switch_map_interfaces/srv/detail/dds_fastrtps/send_goal_pose__type_support.cpp.o[0m
+[6.183s] [ 34%] [32mBuilding CXX object CMakeFiles/switch_map_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/switch_map_interfaces/msg/detail/dds_fastrtps/path_point__type_support.cpp.o[0m
+[6.190s] [ 36%] [32mBuilding CXX object CMakeFiles/switch_map_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/switch_map_interfaces/action/detail/dds_fastrtps/send_goal_pose__type_support.cpp.o[0m
+[6.193s] [ 38%] [32mBuilding CXX object CMakeFiles/switch_map_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/switch_map_interfaces/srv/detail/dds_fastrtps/goal_path__type_support.cpp.o[0m
+[6.330s] [ 39%] [32mBuilding CXX object CMakeFiles/switch_map_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/switch_map_interfaces/msg/detail/path_point__type_support_c.cpp.o[0m
+[6.337s] [ 41%] [32mBuilding CXX object CMakeFiles/switch_map_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/switch_map_interfaces/srv/detail/send_goal_pose__type_support_c.cpp.o[0m
+[6.347s] [ 42%] [32mBuilding CXX object CMakeFiles/switch_map_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/switch_map_interfaces/srv/detail/single_map__type_support_c.cpp.o[0m
+[6.594s] [ 44%] [32mBuilding CXX object CMakeFiles/switch_map_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/switch_map_interfaces/msg/detail/path_point__type_support.cpp.o[0m
+[6.705s] [ 46%] [32mBuilding CXX object CMakeFiles/switch_map_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/switch_map_interfaces/msg/path_point__type_support.cpp.o[0m
+[6.713s] [ 47%] [32mBuilding CXX object CMakeFiles/switch_map_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/switch_map_interfaces/srv/single_map__type_support.cpp.o[0m
+[6.774s] [ 49%] [32mBuilding CXX object CMakeFiles/switch_map_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/switch_map_interfaces/srv/send_goal_pose__type_support.cpp.o[0m
+[6.775s] [ 50%] [32mBuilding CXX object CMakeFiles/switch_map_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/switch_map_interfaces/srv/goal_path__type_support.cpp.o[0m
+[6.831s] [ 52%] [32mBuilding CXX object CMakeFiles/switch_map_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/switch_map_interfaces/action/send_goal_pose__type_support.cpp.o[0m
+[6.837s] [ 53%] [32mBuilding CXX object CMakeFiles/switch_map_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/switch_map_interfaces/srv/detail/single_map__type_support.cpp.o[0m
+[6.855s] [ 55%] [32mBuilding CXX object CMakeFiles/switch_map_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/switch_map_interfaces/srv/detail/goal_path__type_support_c.cpp.o[0m
+[6.855s] [ 57%] [32mBuilding CXX object CMakeFiles/switch_map_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/switch_map_interfaces/srv/detail/send_goal_pose__type_support.cpp.o[0m
+[6.934s] [ 58%] [32m[1mLinking CXX shared library libswitch_map_interfaces__rosidl_typesupport_c.so[0m
+[7.011s] [ 58%] Built target switch_map_interfaces__rosidl_typesupport_c
+[7.017s] [ 60%] [32mBuilding CXX object CMakeFiles/switch_map_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/switch_map_interfaces/action/detail/send_goal_pose__type_support_c.cpp.o[0m
+[7.069s] [ 61%] [32mBuilding CXX object CMakeFiles/switch_map_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/switch_map_interfaces/srv/detail/goal_path__type_support.cpp.o[0m
+[7.442s] [ 63%] [32mBuilding CXX object CMakeFiles/switch_map_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/switch_map_interfaces/action/detail/send_goal_pose__type_support.cpp.o[0m
+[7.446s] [ 65%] [32mBuilding C object CMakeFiles/switch_map_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/switch_map_interfaces/msg/detail/path_point__type_support.c.o[0m
+[7.474s] [ 66%] [32mBuilding C object CMakeFiles/switch_map_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/switch_map_interfaces/srv/detail/single_map__type_support.c.o[0m
+[7.508s] [ 68%] [32mBuilding C object CMakeFiles/switch_map_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/switch_map_interfaces/srv/detail/send_goal_pose__type_support.c.o[0m
+[7.586s] [ 69%] [32mBuilding C object CMakeFiles/switch_map_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/switch_map_interfaces/srv/detail/goal_path__type_support.c.o[0m
+[7.586s] [ 71%] [32mBuilding C object CMakeFiles/switch_map_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/switch_map_interfaces/action/detail/send_goal_pose__type_support.c.o[0m
+[7.750s] [ 73%] [32m[1mLinking C shared library libswitch_map_interfaces__rosidl_typesupport_introspection_c.so[0m
+[7.816s] [ 73%] Built target switch_map_interfaces__rosidl_typesupport_introspection_c
+[7.864s] [ 74%] [32m[1mLinking CXX shared library libswitch_map_interfaces__rosidl_typesupport_fastrtps_c.so[0m
+[7.981s] [ 76%] [32m[1mLinking CXX shared library libswitch_map_interfaces__rosidl_typesupport_cpp.so[0m
+[8.005s] [ 76%] Built target switch_map_interfaces__rosidl_typesupport_fastrtps_c
+[8.036s] [ 76%] Built target switch_map_interfaces__rosidl_typesupport_cpp
+[8.036s] [ 77%] [32m[1mLinking CXX shared library libswitch_map_interfaces__rosidl_typesupport_fastrtps_cpp.so[0m
+[8.158s] [ 77%] Built target switch_map_interfaces__rosidl_typesupport_fastrtps_cpp
+[8.460s] [ 79%] [32m[1mLinking CXX shared library libswitch_map_interfaces__rosidl_typesupport_introspection_cpp.so[0m
+[8.547s] [ 79%] Built target switch_map_interfaces__rosidl_typesupport_introspection_cpp
+[8.560s] [ 79%] Built target switch_map_interfaces
+[8.574s] [ 80%] [34m[1mGenerating Python code for ROS interfaces[0m
+[9.780s] [ 80%] Built target switch_map_interfaces__py
+[9.794s] [ 82%] [32mBuilding C object CMakeFiles/switch_map_interfaces__rosidl_generator_py.dir/rosidl_generator_py/switch_map_interfaces/msg/_path_point_s.c.o[0m
+[9.794s] [ 85%] [32mBuilding C object CMakeFiles/switch_map_interfaces__rosidl_generator_py.dir/rosidl_generator_py/switch_map_interfaces/srv/_single_map_s.c.o[0m
+[9.794s] [ 85%] [32mBuilding C object CMakeFiles/switch_map_interfaces__rosidl_generator_py.dir/rosidl_generator_py/switch_map_interfaces/srv/_send_goal_pose_s.c.o[0m
+[9.795s] [ 87%] [32mBuilding C object CMakeFiles/switch_map_interfaces__rosidl_generator_py.dir/rosidl_generator_py/switch_map_interfaces/srv/_goal_path_s.c.o[0m
+[9.795s] [ 88%] [32mBuilding C object CMakeFiles/switch_map_interfaces__rosidl_generator_py.dir/rosidl_generator_py/switch_map_interfaces/action/_send_goal_pose_s.c.o[0m
+[9.989s] [ 90%] [32m[1mLinking C shared library rosidl_generator_py/switch_map_interfaces/libswitch_map_interfaces__rosidl_generator_py.so[0m
+[10.034s] [ 90%] Built target switch_map_interfaces__rosidl_generator_py
+[10.069s] [ 92%] [32mBuilding C object CMakeFiles/switch_map_interfaces__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/switch_map_interfaces/_switch_map_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[10.072s] [ 93%] [32mBuilding C object CMakeFiles/switch_map_interfaces__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/switch_map_interfaces/_switch_map_interfaces_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[10.079s] [ 95%] [32mBuilding C object CMakeFiles/switch_map_interfaces__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/switch_map_interfaces/_switch_map_interfaces_s.ep.rosidl_typesupport_c.c.o[0m
+[10.303s] [ 96%] [32m[1mLinking C shared library rosidl_generator_py/switch_map_interfaces/switch_map_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[10.313s] [ 98%] [32m[1mLinking C shared library rosidl_generator_py/switch_map_interfaces/switch_map_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[10.325s] [100%] [32m[1mLinking C shared library rosidl_generator_py/switch_map_interfaces/switch_map_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[10.351s] [100%] Built target switch_map_interfaces__rosidl_typesupport_c__pyext
+[10.357s] [100%] Built target switch_map_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[10.370s] [100%] Built target switch_map_interfaces__rosidl_typesupport_introspection_c__pyext
+[10.380s] Invoked command in '/home/csl/isaac_routing2_v2/build/switch_map_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/csl/isaac_routing2_v2/build/switch_map_interfaces -- -j16 -l16
+[10.384s] Invoking command in '/home/csl/isaac_routing2_v2/build/switch_map_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/csl/isaac_routing2_v2/build/switch_map_interfaces
+[10.388s] -- Install configuration: ""
+[10.388s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/ament_index/resource_index/rosidl_interfaces/switch_map_interfaces
+[10.388s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces
+[10.388s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action
+[10.389s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/send_goal_pose.h
+[10.389s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail
+[10.389s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail/send_goal_pose__functions.c
+[10.389s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail/send_goal_pose__functions.h
+[10.389s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail/send_goal_pose__struct.h
+[10.390s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail/send_goal_pose__type_support.h
+[10.390s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg
+[10.390s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/rosidl_generator_c__visibility_control.h
+[10.390s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail
+[10.390s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail/path_point__functions.c
+[10.391s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail/path_point__struct.h
+[10.391s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail/path_point__functions.h
+[10.391s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail/path_point__type_support.h
+[10.391s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/path_point.h
+[10.391s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv
+[10.391s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/single_map.h
+[10.392s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/send_goal_pose.h
+[10.392s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail
+[10.392s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/single_map__struct.h
+[10.392s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/send_goal_pose__functions.c
+[10.392s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/send_goal_pose__functions.h
+[10.392s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/single_map__functions.h
+[10.392s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/goal_path__functions.h
+[10.393s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/goal_path__type_support.h
+[10.393s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/send_goal_pose__struct.h
+[10.393s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/single_map__type_support.h
+[10.393s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/goal_path__struct.h
+[10.393s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/goal_path__functions.c
+[10.393s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/send_goal_pose__type_support.h
+[10.393s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/single_map__functions.c
+[10.393s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/goal_path.h
+[10.393s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/environment/library_path.sh
+[10.394s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/environment/library_path.dsv
+[10.394s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/lib/libswitch_map_interfaces__rosidl_generator_c.so
+[10.394s] -- Set runtime path of "/home/csl/isaac_routing2_v2/install/switch_map_interfaces/lib/libswitch_map_interfaces__rosidl_generator_c.so" to ""
+[10.394s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces
+[10.395s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action
+[10.395s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail
+[10.395s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail/send_goal_pose__rosidl_typesupport_fastrtps_c.h
+[10.395s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg
+[10.395s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail
+[10.395s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail/path_point__rosidl_typesupport_fastrtps_c.h
+[10.395s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[10.395s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv
+[10.395s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail
+[10.396s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/single_map__rosidl_typesupport_fastrtps_c.h
+[10.396s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/goal_path__rosidl_typesupport_fastrtps_c.h
+[10.396s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/send_goal_pose__rosidl_typesupport_fastrtps_c.h
+[10.396s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/lib/libswitch_map_interfaces__rosidl_typesupport_fastrtps_c.so
+[10.396s] -- Set runtime path of "/home/csl/isaac_routing2_v2/install/switch_map_interfaces/lib/libswitch_map_interfaces__rosidl_typesupport_fastrtps_c.so" to ""
+[10.397s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces
+[10.397s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action
+[10.397s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail
+[10.397s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail/send_goal_pose__rosidl_typesupport_introspection_c.h
+[10.397s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail/send_goal_pose__type_support.c
+[10.398s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg
+[10.399s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail
+[10.399s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail/path_point__rosidl_typesupport_introspection_c.h
+[10.399s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail/path_point__type_support.c
+[10.400s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[10.400s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv
+[10.400s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail
+[10.401s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/goal_path__type_support.c
+[10.402s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/single_map__rosidl_typesupport_introspection_c.h
+[10.402s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/send_goal_pose__rosidl_typesupport_introspection_c.h
+[10.402s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/send_goal_pose__type_support.c
+[10.403s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/goal_path__rosidl_typesupport_introspection_c.h
+[10.403s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/single_map__type_support.c
+[10.403s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/lib/libswitch_map_interfaces__rosidl_typesupport_introspection_c.so
+[10.403s] -- Set runtime path of "/home/csl/isaac_routing2_v2/install/switch_map_interfaces/lib/libswitch_map_interfaces__rosidl_typesupport_introspection_c.so" to ""
+[10.403s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/lib/libswitch_map_interfaces__rosidl_typesupport_c.so
+[10.403s] -- Set runtime path of "/home/csl/isaac_routing2_v2/install/switch_map_interfaces/lib/libswitch_map_interfaces__rosidl_typesupport_c.so" to ""
+[10.403s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces
+[10.404s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action
+[10.404s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail
+[10.404s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail/send_goal_pose__traits.hpp
+[10.404s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail/send_goal_pose__builder.hpp
+[10.404s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail/send_goal_pose__struct.hpp
+[10.405s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/send_goal_pose.hpp
+[10.405s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg
+[10.405s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail
+[10.405s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail/path_point__builder.hpp
+[10.405s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail/path_point__struct.hpp
+[10.405s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail/path_point__traits.hpp
+[10.405s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/path_point.hpp
+[10.405s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv
+[10.406s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail
+[10.406s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/goal_path__traits.hpp
+[10.406s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/goal_path__struct.hpp
+[10.406s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/single_map__builder.hpp
+[10.406s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/send_goal_pose__traits.hpp
+[10.407s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/send_goal_pose__builder.hpp
+[10.407s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/send_goal_pose__struct.hpp
+[10.407s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/single_map__traits.hpp
+[10.407s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/goal_path__builder.hpp
+[10.407s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/single_map__struct.hpp
+[10.407s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/goal_path.hpp
+[10.407s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/send_goal_pose.hpp
+[10.407s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/single_map.hpp
+[10.407s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces
+[10.407s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action
+[10.408s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail
+[10.408s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail/dds_fastrtps
+[10.408s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail/send_goal_pose__rosidl_typesupport_fastrtps_cpp.hpp
+[10.408s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg
+[10.408s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail
+[10.408s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail/dds_fastrtps
+[10.408s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail/path_point__rosidl_typesupport_fastrtps_cpp.hpp
+[10.408s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[10.408s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv
+[10.409s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail
+[10.409s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/dds_fastrtps
+[10.409s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/goal_path__rosidl_typesupport_fastrtps_cpp.hpp
+[10.409s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/send_goal_pose__rosidl_typesupport_fastrtps_cpp.hpp
+[10.409s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/single_map__rosidl_typesupport_fastrtps_cpp.hpp
+[10.410s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/lib/libswitch_map_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[10.410s] -- Set runtime path of "/home/csl/isaac_routing2_v2/install/switch_map_interfaces/lib/libswitch_map_interfaces__rosidl_typesupport_fastrtps_cpp.so" to ""
+[10.410s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces
+[10.410s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action
+[10.410s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail
+[10.410s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail/send_goal_pose__rosidl_typesupport_introspection_cpp.hpp
+[10.410s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail/send_goal_pose__type_support.cpp
+[10.410s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg
+[10.410s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail
+[10.410s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail/path_point__type_support.cpp
+[10.411s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail/path_point__rosidl_typesupport_introspection_cpp.hpp
+[10.411s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv
+[10.411s] -- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail
+[10.411s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/single_map__type_support.cpp
+[10.411s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/send_goal_pose__rosidl_typesupport_introspection_cpp.hpp
+[10.411s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/send_goal_pose__type_support.cpp
+[10.411s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/goal_path__rosidl_typesupport_introspection_cpp.hpp
+[10.411s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/goal_path__type_support.cpp
+[10.411s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/single_map__rosidl_typesupport_introspection_cpp.hpp
+[10.412s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/lib/libswitch_map_interfaces__rosidl_typesupport_introspection_cpp.so
+[10.412s] -- Set runtime path of "/home/csl/isaac_routing2_v2/install/switch_map_interfaces/lib/libswitch_map_interfaces__rosidl_typesupport_introspection_cpp.so" to ""
+[10.412s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/lib/libswitch_map_interfaces__rosidl_typesupport_cpp.so
+[10.412s] -- Set runtime path of "/home/csl/isaac_routing2_v2/install/switch_map_interfaces/lib/libswitch_map_interfaces__rosidl_typesupport_cpp.so" to ""
+[10.412s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/environment/pythonpath.sh
+[10.412s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/environment/pythonpath.dsv
+[10.412s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces-0.0.0-py3.10.egg-info
+[10.412s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces-0.0.0-py3.10.egg-info/SOURCES.txt
+[10.412s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces-0.0.0-py3.10.egg-info/dependency_links.txt
+[10.413s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces-0.0.0-py3.10.egg-info/PKG-INFO
+[10.413s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces-0.0.0-py3.10.egg-info/top_level.txt
+[10.413s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces
+[10.413s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/libswitch_map_interfaces__rosidl_generator_py.so
+[10.413s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/action
+[10.413s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/action/__init__.py
+[10.413s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/action/_send_goal_pose_s.c
+[10.413s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/action/_send_goal_pose.py
+[10.414s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/switch_map_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[10.414s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/switch_map_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[10.414s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/_switch_map_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[10.414s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/_switch_map_interfaces_s.ep.rosidl_typesupport_c.c
+[10.415s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/__init__.py
+[10.415s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/msg
+[10.415s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/msg/__init__.py
+[10.415s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/msg/_path_point.py
+[10.415s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/msg/_path_point_s.c
+[10.415s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/_switch_map_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[10.416s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/switch_map_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[10.416s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/srv
+[10.416s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/srv/_single_map_s.c
+[10.416s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/srv/__init__.py
+[10.416s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/srv/_send_goal_pose_s.c
+[10.417s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/srv/_send_goal_pose.py
+[10.417s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/srv/_goal_path.py
+[10.417s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/srv/_goal_path_s.c
+[10.417s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/srv/_single_map.py
+[10.479s] Listing '/home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces'...
+[10.479s] Compiling '/home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/__init__.py'...
+[10.479s] Listing '/home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/action'...
+[10.480s] Compiling '/home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/action/__init__.py'...
+[10.480s] Compiling '/home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/action/_send_goal_pose.py'...
+[10.480s] Listing '/home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/msg'...
+[10.480s] Compiling '/home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/msg/__init__.py'...
+[10.480s] Compiling '/home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/msg/_path_point.py'...
+[10.480s] Listing '/home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/srv'...
+[10.480s] Compiling '/home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/srv/__init__.py'...
+[10.480s] Compiling '/home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/srv/_goal_path.py'...
+[10.480s] Compiling '/home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/srv/_send_goal_pose.py'...
+[10.480s] Compiling '/home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/srv/_single_map.py'...
+[10.489s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/switch_map_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[10.491s] -- Set runtime path of "/home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/switch_map_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+[10.491s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/switch_map_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[10.491s] -- Set runtime path of "/home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/switch_map_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+[10.492s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/switch_map_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[10.492s] -- Set runtime path of "/home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/switch_map_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+[10.492s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/lib/libswitch_map_interfaces__rosidl_generator_py.so
+[10.493s] -- Set runtime path of "/home/csl/isaac_routing2_v2/install/switch_map_interfaces/lib/libswitch_map_interfaces__rosidl_generator_py.so" to ""
+[10.493s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/msg/PathPoint.idl
+[10.493s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/srv/SingleMap.idl
+[10.494s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/srv/SendGoalPose.idl
+[10.494s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/srv/GoalPath.idl
+[10.494s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/action/SendGoalPose.idl
+[10.494s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/msg/PathPoint.msg
+[10.495s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/srv/SingleMap.srv
+[10.495s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/srv/SingleMap_Request.msg
+[10.495s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/srv/SingleMap_Response.msg
+[10.495s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/srv/SendGoalPose.srv
+[10.496s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/srv/SendGoalPose_Request.msg
+[10.496s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/srv/SendGoalPose_Response.msg
+[10.496s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/srv/GoalPath.srv
+[10.496s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/srv/GoalPath_Request.msg
+[10.496s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/srv/GoalPath_Response.msg
+[10.496s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/action/SendGoalPose.action
+[10.496s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/ament_index/resource_index/package_run_dependencies/switch_map_interfaces
+[10.496s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/ament_index/resource_index/parent_prefix_path/switch_map_interfaces
+[10.496s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/environment/ament_prefix_path.sh
+[10.497s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/environment/ament_prefix_path.dsv
+[10.497s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/environment/path.sh
+[10.497s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/environment/path.dsv
+[10.497s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/local_setup.bash
+[10.497s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/local_setup.sh
+[10.497s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/local_setup.zsh
+[10.498s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/local_setup.dsv
+[10.499s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/package.dsv
+[10.499s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/ament_index/resource_index/packages/switch_map_interfaces
+[10.499s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/export_switch_map_interfaces__rosidl_generator_cExport.cmake
+[10.500s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/export_switch_map_interfaces__rosidl_generator_cExport-noconfig.cmake
+[10.500s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/export_switch_map_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[10.500s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/export_switch_map_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[10.500s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/switch_map_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[10.500s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/switch_map_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[10.500s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/switch_map_interfaces__rosidl_typesupport_cExport.cmake
+[10.500s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/switch_map_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[10.500s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/export_switch_map_interfaces__rosidl_generator_cppExport.cmake
+[10.500s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/export_switch_map_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[10.501s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/export_switch_map_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[10.501s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/switch_map_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[10.501s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/switch_map_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[10.503s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/switch_map_interfaces__rosidl_typesupport_cppExport.cmake
+[10.503s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/switch_map_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[10.504s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/export_switch_map_interfaces__rosidl_generator_pyExport.cmake
+[10.504s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/export_switch_map_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[10.504s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/rosidl_cmake-extras.cmake
+[10.504s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[10.504s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[10.504s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[10.504s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[10.504s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[10.504s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[10.504s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/switch_map_interfacesConfig.cmake
+[10.504s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/switch_map_interfacesConfig-version.cmake
+[10.505s] -- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/package.xml
+[10.507s] Invoked command in '/home/csl/isaac_routing2_v2/build/switch_map_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/csl/isaac_routing2_v2/build/switch_map_interfaces

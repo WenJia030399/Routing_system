@@ -1,0 +1,32 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/csl/isaac_routing/install/switch_map_interfaces/include/**",
+        "/home/csl/isaac_routing/install/routing_agent_interfaces/include/**",
+        "/home/csl/isaac_routing/install/ndt_omp_ros2/include/**",
+        "/home/csl/isaac_routing/install/champ_msgs/include/**",
+        "/home/csl/isaac_routing/install/champ/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/csl/isaac_routing/src/champ/champ/include/**",
+        "/home/csl/isaac_routing/src/champ/champ_base/include/**",
+        "/home/csl/isaac_routing/src/champ/champ_config/include/**",
+        "/home/csl/isaac_routing/src/champ/go1_config/include/**",
+        "/home/csl/isaac_routing/src/champ/spot_config/include/**",
+        "/home/csl/isaac_routing/src/lidar_localization_ros2/include/**",
+        "/home/csl/isaac_routing/src/ndt_omp_ros2/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

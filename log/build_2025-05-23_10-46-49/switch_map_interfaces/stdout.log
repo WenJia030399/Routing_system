@@ -1,0 +1,252 @@
+[  1%] Built target switch_map_interfaces__cpp
+[ 12%] Built target switch_map_interfaces__rosidl_generator_c
+[ 12%] Built target ament_cmake_python_copy_switch_map_interfaces
+[ 23%] Built target switch_map_interfaces__rosidl_typesupport_introspection_c
+[ 34%] Built target switch_map_interfaces__rosidl_typesupport_cpp
+[ 65%] Built target switch_map_interfaces__rosidl_typesupport_fastrtps_cpp
+[ 65%] Built target switch_map_interfaces__rosidl_typesupport_c
+[ 68%] Built target switch_map_interfaces__rosidl_typesupport_introspection_cpp
+[ 79%] Built target switch_map_interfaces__rosidl_typesupport_fastrtps_c
+[ 79%] Built target switch_map_interfaces
+[ 80%] Built target switch_map_interfaces__py
+[ 90%] Built target switch_map_interfaces__rosidl_generator_py
+[100%] Built target switch_map_interfaces__rosidl_typesupport_introspection_c__pyext
+[100%] Built target switch_map_interfaces__rosidl_typesupport_c__pyext
+[100%] Built target switch_map_interfaces__rosidl_typesupport_fastrtps_c__pyext
+running egg_info
+writing switch_map_interfaces.egg-info/PKG-INFO
+writing dependency_links to switch_map_interfaces.egg-info/dependency_links.txt
+writing top-level names to switch_map_interfaces.egg-info/top_level.txt
+reading manifest file 'switch_map_interfaces.egg-info/SOURCES.txt'
+writing manifest file 'switch_map_interfaces.egg-info/SOURCES.txt'
+[100%] Built target ament_cmake_python_build_switch_map_interfaces_egg
+-- Install configuration: ""
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/ament_index/resource_index/rosidl_interfaces/switch_map_interfaces
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/send_goal_pose.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail/send_goal_pose__functions.c
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail/send_goal_pose__functions.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail/send_goal_pose__struct.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail/send_goal_pose__type_support.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/rosidl_generator_c__visibility_control.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail/path_point__functions.c
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail/path_point__struct.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail/path_point__functions.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail/path_point__type_support.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/path_point.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/single_map.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/send_goal_pose.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/single_map__struct.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/send_goal_pose__functions.c
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/send_goal_pose__functions.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/single_map__functions.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/goal_path__functions.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/goal_path__type_support.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/send_goal_pose__struct.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/single_map__type_support.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/goal_path__struct.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/goal_path__functions.c
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/send_goal_pose__type_support.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/single_map__functions.c
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/goal_path.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/environment/library_path.sh
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/environment/library_path.dsv
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/lib/libswitch_map_interfaces__rosidl_generator_c.so
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail/send_goal_pose__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail/path_point__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/single_map__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/goal_path__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/send_goal_pose__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/lib/libswitch_map_interfaces__rosidl_typesupport_fastrtps_c.so
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail/send_goal_pose__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail/send_goal_pose__type_support.c
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail/path_point__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail/path_point__type_support.c
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/goal_path__type_support.c
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/single_map__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/send_goal_pose__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/send_goal_pose__type_support.c
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/goal_path__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/single_map__type_support.c
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/lib/libswitch_map_interfaces__rosidl_typesupport_introspection_c.so
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/lib/libswitch_map_interfaces__rosidl_typesupport_c.so
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail/send_goal_pose__traits.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail/send_goal_pose__builder.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail/send_goal_pose__struct.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/send_goal_pose.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail/path_point__builder.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail/path_point__struct.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail/path_point__traits.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/path_point.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/goal_path__traits.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/goal_path__struct.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/single_map__builder.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/send_goal_pose__traits.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/send_goal_pose__builder.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/send_goal_pose__struct.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/single_map__traits.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/goal_path__builder.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/single_map__struct.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/goal_path.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/send_goal_pose.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/single_map.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail/dds_fastrtps
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail/send_goal_pose__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail/dds_fastrtps
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail/path_point__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/dds_fastrtps
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/goal_path__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/send_goal_pose__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/single_map__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/lib/libswitch_map_interfaces__rosidl_typesupport_fastrtps_cpp.so
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail/send_goal_pose__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/action/detail/send_goal_pose__type_support.cpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail/path_point__type_support.cpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/msg/detail/path_point__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/single_map__type_support.cpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/send_goal_pose__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/send_goal_pose__type_support.cpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/goal_path__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/goal_path__type_support.cpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/include/switch_map_interfaces/switch_map_interfaces/srv/detail/single_map__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/lib/libswitch_map_interfaces__rosidl_typesupport_introspection_cpp.so
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/lib/libswitch_map_interfaces__rosidl_typesupport_cpp.so
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/environment/pythonpath.sh
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/environment/pythonpath.dsv
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces-0.0.0-py3.10.egg-info
+-- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces-0.0.0-py3.10.egg-info/SOURCES.txt
+-- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces-0.0.0-py3.10.egg-info/dependency_links.txt
+-- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces-0.0.0-py3.10.egg-info/PKG-INFO
+-- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces-0.0.0-py3.10.egg-info/top_level.txt
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/libswitch_map_interfaces__rosidl_generator_py.so
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/action
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/action/__init__.py
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/action/_send_goal_pose_s.c
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/action/_send_goal_pose.py
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/switch_map_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/switch_map_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/_switch_map_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/_switch_map_interfaces_s.ep.rosidl_typesupport_c.c
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/__init__.py
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/msg
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/msg/__init__.py
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/msg/_path_point.py
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/msg/_path_point_s.c
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/_switch_map_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/switch_map_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/srv
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/srv/_single_map_s.c
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/srv/__init__.py
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/srv/_send_goal_pose_s.c
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/srv/_send_goal_pose.py
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/srv/_goal_path.py
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/srv/_goal_path_s.c
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/srv/_single_map.py
+Listing '/home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces'...
+Listing '/home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/action'...
+Listing '/home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/msg'...
+Listing '/home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/srv'...
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/switch_map_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/switch_map_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/local/lib/python3.10/dist-packages/switch_map_interfaces/switch_map_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/lib/libswitch_map_interfaces__rosidl_generator_py.so
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/msg/PathPoint.idl
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/srv/SingleMap.idl
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/srv/SendGoalPose.idl
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/srv/GoalPath.idl
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/action/SendGoalPose.idl
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/msg/PathPoint.msg
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/srv/SingleMap.srv
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/srv/SingleMap_Request.msg
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/srv/SingleMap_Response.msg
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/srv/SendGoalPose.srv
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/srv/SendGoalPose_Request.msg
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/srv/SendGoalPose_Response.msg
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/srv/GoalPath.srv
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/srv/GoalPath_Request.msg
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/srv/GoalPath_Response.msg
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/action/SendGoalPose.action
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/ament_index/resource_index/package_run_dependencies/switch_map_interfaces
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/ament_index/resource_index/parent_prefix_path/switch_map_interfaces
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/environment/ament_prefix_path.sh
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/environment/path.sh
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/environment/path.dsv
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/local_setup.bash
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/local_setup.sh
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/local_setup.zsh
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/local_setup.dsv
+-- Installing: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/package.dsv
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/ament_index/resource_index/packages/switch_map_interfaces
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/export_switch_map_interfaces__rosidl_generator_cExport.cmake
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/export_switch_map_interfaces__rosidl_generator_cExport-noconfig.cmake
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/export_switch_map_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/export_switch_map_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/switch_map_interfaces__rosidl_typesupport_introspection_cExport.cmake
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/switch_map_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/switch_map_interfaces__rosidl_typesupport_cExport.cmake
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/switch_map_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/export_switch_map_interfaces__rosidl_generator_cppExport.cmake
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/export_switch_map_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/export_switch_map_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/switch_map_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/switch_map_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/switch_map_interfaces__rosidl_typesupport_cppExport.cmake
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/switch_map_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/export_switch_map_interfaces__rosidl_generator_pyExport.cmake
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/export_switch_map_interfaces__rosidl_generator_pyExport-noconfig.cmake
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/rosidl_cmake-extras.cmake
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/switch_map_interfacesConfig.cmake
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/cmake/switch_map_interfacesConfig-version.cmake
+-- Up-to-date: /home/csl/isaac_routing2_v2/install/switch_map_interfaces/share/switch_map_interfaces/package.xml
