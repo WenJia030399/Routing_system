@@ -1,6 +1,0 @@
-image: tsmc_cup_1f.png
-resolution: 0.05
-origin: [66.07499847412109, 16.575000381469728, 0.0000]
-negate: 0
-occupied_thresh: 0.65
-free_thresh: 0.196
